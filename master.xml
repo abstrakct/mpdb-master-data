@@ -71,7 +71,7 @@
                 <song name="On My Pillow"/>
                 <song name="A Pacific Sonata"/>
                 <song name="Starhammer" segue="true"/>
-                <song name="For Mad Men Only">
+                <song name="For Madmen Only">
                     <cover mbid="7210493e-b497-4d4b-bfbc-561bec4ed0f4" name="May Blitz" sortName="May Blitz" disambiguation="">
                         <url>https://www.setlist.fm/setlists/may-blitz-33d63485.html</url>
                     </cover>
@@ -215,7 +215,7 @@
                 </song>
                 <song name="Feel"/>
                 <song name="Starhammer"/>
-                <song name="For Mad Men Only">
+                <song name="For Madmen Only">
                     <cover mbid="7210493e-b497-4d4b-bfbc-561bec4ed0f4" name="May Blitz" sortName="May Blitz" disambiguation="">
                         <url>https://www.setlist.fm/setlists/may-blitz-33d63485.html</url>
                     </cover>
@@ -644,7 +644,7 @@
                     </cover>
                     <notes>To Reine</notes>
                 </song>
-                <song name="For Mad Men Only">
+                <song name="For Madmen Only">
                     <cover mbid="7210493e-b497-4d4b-bfbc-561bec4ed0f4" name="May Blitz" sortName="May Blitz" disambiguation="">
                         <url>https://www.setlist.fm/setlists/may-blitz-33d63485.html</url>
                     </cover>
