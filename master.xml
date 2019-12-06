@@ -747,7 +747,8 @@
         </sets>
         <url>https://www.setlist.fm/setlist/motorpsycho/2019/gloria-theater-cologne-germany-439c03ff.html</url>
     </setlist>
-    <setlist id="4b9c03fa" versionId="6b01122a" eventDate="30-09-2019" lastUpdated="2019-10-01T14:47:00.000+0000">
+    <setlist status="confirmed" id="4b9c03fa" versionId="6b01122a" eventDate="30-09-2019" lastUpdated="2019-10-01T14:47:00.000+0000">
+        <source>Forum post</source>
         <artist mbid="5d0764c8-b14a-47fb-adc7-2ba9fb5f0d76" name="Motorpsycho" sortName="Motorpsycho" disambiguation="Norwegian band">
             <url>https://www.setlist.fm/setlists/motorpsycho-63d62abb.html</url>
         </artist>
@@ -764,11 +765,11 @@
                 <song name="In Every Dream Home"/>
                 <song name="The Alchemyst"/>
                 <song name="Mountain"/>
-                <song name="Pills, Powders + Passion Plays"/>
+                <song name="Pills, Powders &amp; Passion Plays"/>
                 <song name="The Jig Is Up (Kiss the Snake)"/>
                 <song name="The Crucible"/>
                 <song name="A Pacific Sonata"/>
-                <song name="Überwagner or a Billion Bubbles in My Mind"/>
+                <song name="Überwagner or a Billion Bubbles in My Mind" segue="true"/>
                 <song name="The Pilgrim">
                     <cover mbid="406f1b42-0c9e-4427-aeb7-02f78e188ec4" name="Wishbone Ash" sortName="Wishbone Ash" disambiguation="">
                         <url>https://www.setlist.fm/setlists/wishbone-ash-23d6ac6f.html</url>
