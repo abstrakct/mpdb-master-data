@@ -1,0 +1,70 @@
+
+dette er det Bent skriver er "probably" setlisten, matcher IKKE opptak.
+
+    <setlist status="unknown" id="1bda71d4" versionId="23f8b82b" eventDate="14-05-1994" lastUpdated="2013-05-29T13:28:29.000+0000">
+        <artist mbid="5d0764c8-b14a-47fb-adc7-2ba9fb5f0d76" tmid="741542" name="Motorpsycho" sortName="Motorpsycho" disambiguation="Norwegian band">
+            <url>https://www.setlist.fm/setlists/motorpsycho-63d62abb.html</url>
+        </artist>
+        <venue id="23d62c03" name="Democrazy">
+            <city id="2797656" name="Ghent" state="Flanders" stateCode="VLG">
+                <coords lat="51.05" long="3.7166667"/>
+                <country code="BE" name="Belgium"/>
+            </city>
+            <url>https://www.setlist.fm/venue/democrazy-ghent-belgium-23d62c03.html</url>
+        </venue>
+        <sets>
+            <set>
+                <song name="Giftland"/>
+                <song name="Hogwash"/>
+                <song name="Junior"/>
+                <song name="Another Ugly Tune"/>
+                <song name="Mountain"/>
+                <song name="Plan #1"/>
+                <song name="Sheer Profoundity"/>
+                <song name="Feedtime"/>
+                <song name="Nothing to Say"/>
+                <song name="Grindstone"/>
+                <song name="Home of the Brave"/>
+            </set>
+            <set encore="1">
+                <song name="The Golden Core"/>
+            </set>
+        </sets>
+        <url>https://www.setlist.fm/setlist/motorpsycho/1994/democrazy-ghent-belgium-1bda71d4.html</url>
+    </setlist>
+
+
+samme her
+    <setlist status="unknown" id="bda71c2" versionId="13f8b94d" eventDate="21-05-1994" lastUpdated="2013-05-29T13:27:43.000+0000">
+        <artist mbid="5d0764c8-b14a-47fb-adc7-2ba9fb5f0d76" tmid="741542" name="Motorpsycho" sortName="Motorpsycho" disambiguation="Norwegian band">
+            <url>https://www.setlist.fm/setlists/motorpsycho-63d62abb.html</url>
+        </artist>
+        <venue id="3bd66848" name="Druckluft">
+            <city id="2860408" name="Oberhausen" state="North Rhine-Westphalia" stateCode="07">
+                <coords lat="53.717" long="8.567"/>
+                <country code="DE" name="Germany"/>
+            </city>
+            <url>https://www.setlist.fm/venue/druckluft-oberhausen-germany-3bd66848.html</url>
+        </venue>
+        <sets>
+            <set>
+                <song name="On My Pillow"/>
+                <song name="Junior"/>
+                <song name="Hogwash"/>
+                <song name="Plan #1"/>
+                <song name="Beautiful Sister"/>
+                <song name="Kill Some Day"/>
+                <song name="Mountain"/>
+                <song name="Sheer Profoundity"/>
+                <song name="Feedtime"/>
+                <song name="Nothing to Say"/>
+                <song name="She Used to Be a Twin"/>
+                <song name="Another Ugly Tune"/>
+                <song name="The Wheel"/>
+            </set>
+            <set encore="1">
+                <song name="The Golden Core"/>
+            </set>
+        </sets>
+        <url>https://www.setlist.fm/setlist/motorpsycho/1994/druckluft-oberhausen-germany-bda71c2.html</url>
+    </setlist>

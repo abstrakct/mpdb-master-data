@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sets>
+    <set setName="Set 1"/>
+    <set setName="Set 2"/>
+    <set setName="Set 3"/>
+    <set setName="Set 4"/>
+    <set setName="Encore 1"/>
+    <set setName="Encore 2"/>
+    <set setName="Encore 3"/>
+    <set setName="Encore 4"/>
+    <set setName="Acoustic"/>
+    <set setName="Electric"/>
+    <set setName="Acoustic set"/>
+    <set setName="Electric set"/>
+    <set setName="Main"/>
+    <set setName="Blissard"/>
+    <set setName="Semi-acoustic"/>
+</sets>
