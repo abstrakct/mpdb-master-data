@@ -1,0 +1,26 @@
+    <setlist status="confirmed" eventDate="03-08-2019">
+    <confirmationsource>Recording</confirmationsource>
+        <artist name="Motorpsycho" sortName="Motorpsycho">
+        </artist>
+        <venue name="">
+            <city name="">
+                <country code="NO" name="Norway"/>
+            </city>
+        </venue>
+        <sets>
+            <set name="">
+                <song name="" />
+                <song name="" segue="true">
+                </song>
+                <song name=""/>
+                <song name=""/>
+                <song name=""/>
+                <song name=""/>
+                <song name=""/>
+            </set>
+            <set encore="1">
+                <song name=""/>
+            </set>
+        </sets>
+    </setlist>
+
