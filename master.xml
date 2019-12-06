@@ -1,5 +1,51 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <setlists itemsPerPage="20" page="1" total="891">
+    <setlist status="confirmed" eventDate="03-08-2019" lastUpdated="2019-05-05T08:27:12.000+0000">
+    <confirmationsource>Recording</confirmationsource>
+        <artist mbid="5d0764c8-b14a-47fb-adc7-2ba9fb5f0d76" tmid="741542" name="Motorpsycho" sortName="Motorpsycho" disambiguation="Norwegian band">
+        </artist>
+        <venue name="Ringnes Festival">
+            <city name="Skotbu">
+                <country code="NO" name="Norway"/>
+            </city>
+        </venue>
+        <sets>
+            <set name="Electric">
+                <song name="Year Zero" />
+                <song name="August" segue="true">
+                    <cover mbid="34ec9a8d-c65b-48fd-bcdd-aad2f72fdb47" name="Love" sortName="Love" disambiguation="folk-rock/psychedelic band">
+                        <url>https://www.setlist.fm/setlists/love-33d6ac91.html</url>
+                    </cover>
+                </song>
+                <song name="Manmower"/>
+                <song name="In Every Dream Home"/>
+                <song name="Triggerman"/>
+                <song name="Starhammer"/>
+                <song name="Nothing to Say"/>
+            </set>
+
+            <set name="Acoustic">
+                <song name="Blueberry Daydream"/>
+                <song name="Coventry Boy"/>
+                <song name="Feel"/>
+            </set>
+
+            <set name="Electric">
+                <song name="Psychotzar" segue="true"/>
+                <song name="Mountain" segue="true"/>
+                <song name="Hogwash" segue="true"/>
+                <song name="Walking on the Water" segue="true"/>
+                <song name="Black to Comm">
+                    <cover mbid="08b736bb-1c82-40b4-8b0b-49e2182a067a" name="MC5" sortName="MC5" disambiguation="">
+                        <url>https://www.setlist.fm/setlists/mc5-3bd6ac6c.html</url>
+                    </cover>
+                </song>
+            </set>
+            <set encore="1">
+                <song name="Greener"/>
+            </set>
+        </sets>
+    </setlist>
     <setlist status="confirmed" eventDate="31-07-2019" lastUpdated="2019-05-05T08:27:12.000+0000">
     <confirmationsource>Confirmed by multiple people attending the gig.</confirmationsource>
         <artist mbid="5d0764c8-b14a-47fb-adc7-2ba9fb5f0d76" tmid="741542" name="Motorpsycho" sortName="Motorpsycho" disambiguation="Norwegian band">
