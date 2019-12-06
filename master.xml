@@ -1,8 +1,921 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <setlists itemsPerPage="20" page="1" total="891">
+    <setlist status="confirmed" id="239a5cc3" versionId="330b7859" eventDate="05-12-2019" lastUpdated="2019-12-06T16:41:41.000+0000">
+        <source>Official Instagram</source>
+        <artist mbid="5d0764c8-b14a-47fb-adc7-2ba9fb5f0d76" name="Motorpsycho" sortName="Motorpsycho" disambiguation="Norwegian band">
+            <url>https://www.setlist.fm/setlists/motorpsycho-63d62abb.html</url>
+        </artist>
+        <venue id="63d62aa7" name="Driv">
+            <city id="3133895" name="Tromsø" state="Troms" stateCode="18">
+                <coords lat="69.6536247817996" long="18.9606857299805"/>
+                <country code="NO" name="Norway"/>
+            </city>
+            <url>https://www.setlist.fm/venue/driv-tromso-norway-63d62aa7.html</url>
+        </venue>
+        <tour name="The Crucible"/>
+        <sets>
+            <set>
+                <song name="Psychotzar" segue="true"/>
+                <song name="Bonny Lee"/>
+                <song name="The Crucible"/>
+                <song name="On My Pillow"/>
+                <song name="August">
+                    <cover mbid="34ec9a8d-c65b-48fd-bcdd-aad2f72fdb47" name="Love" sortName="Love" disambiguation="folk-rock/psychedelic band">
+                        <url>https://www.setlist.fm/setlists/love-33d6ac91.html</url>
+                    </cover>
+                </song>
+                <song name="Granny Takes a Trip"/>
+                <song name="Starhammer"/>
+                <song name="A Pacific Sonata"/>
+                <song name="Überwagner or a Billion Bubbles in My Mind" segue="true"/>
+                <song name="The Pilgrim">
+                    <cover mbid="406f1b42-0c9e-4427-aeb7-02f78e188ec4" name="Wishbone Ash" sortName="Wishbone Ash" disambiguation="">
+                        <url>https://www.setlist.fm/setlists/wishbone-ash-23d6ac6f.html</url>
+                    </cover>
+                </song>
+                <song name="Mountain"/>
+                <song name="The Tower"/>
+            </set>
+            <set encore="1">
+                <song name="Fools Gold"/>
+            </set>
+        </sets>
+        <url>https://www.setlist.fm/setlist/motorpsycho/2019/driv-tromso-norway-239a5cc3.html</url>
+    </setlist>
+    <setlist status="confirmed" id="739dfe9d" versionId="230f806b" eventDate="19-10-2019" lastUpdated="2019-10-20T10:28:03.000+0000">
+        <source>Forum post</source>
+        <artist mbid="5d0764c8-b14a-47fb-adc7-2ba9fb5f0d76" name="Motorpsycho" sortName="Motorpsycho" disambiguation="Norwegian band">
+            <url>https://www.setlist.fm/setlists/motorpsycho-63d62abb.html</url>
+        </artist>
+        <venue id="43d6cbe3" name="Paard van Troje">
+            <city id="2747373" name="The Hague" state="South Holland" stateCode="11">
+                <coords lat="52.076667" long="4.298611"/>
+                <country code="NL" name="Netherlands"/>
+            </city>
+            <url>https://www.setlist.fm/venue/paard-van-troje-the-hague-netherlands-43d6cbe3.html</url>
+        </venue>
+        <tour name="The Crucible"/>
+        <sets>
+            <set>
+                <song name="A.S.F.E."/>
+                <song name="August">
+                    <cover mbid="34ec9a8d-c65b-48fd-bcdd-aad2f72fdb47" name="Love" sortName="Love" disambiguation="folk-rock/psychedelic band">
+                        <url>https://www.setlist.fm/setlists/love-33d6ac91.html</url>
+                    </cover>
+                </song>
+                <song name="The Crucible"/>
+                <song name="The Light Fantastic"/>
+                <song name="Manmower"/>
+                <song name="California (I'm so sold)"/>
+                <song name="Mad Sun"/>
+                <song name="On My Pillow"/>
+                <song name="A Pacific Sonata"/>
+                <song name="Starhammer" segue="true"/>
+                <song name="For Mad Men Only">
+                    <cover mbid="7210493e-b497-4d4b-bfbc-561bec4ed0f4" name="May Blitz" sortName="May Blitz" disambiguation="">
+                        <url>https://www.setlist.fm/setlists/may-blitz-33d63485.html</url>
+                    </cover>
+                </song>
+                <song name="Psychotzar"/>
+                <song name="The Wheel"/>
+            </set>
+            <set encore="1">
+                <song name="Fools Gold"/>
+            </set>
+        </sets>
+        <info>last gig of the tour</info>
+        <url>https://www.setlist.fm/setlist/motorpsycho/2019/paard-van-troje-the-hague-netherlands-739dfe9d.html</url>
+    </setlist>
+    <setlist status="confirmed" id="39d81f3" versionId="5b0f9764" eventDate="18-10-2019" lastUpdated="2019-10-19T09:18:22.000+0000">
+        <source>Recording</source>
+        <artist mbid="5d0764c8-b14a-47fb-adc7-2ba9fb5f0d76" name="Motorpsycho" sortName="Motorpsycho" disambiguation="Norwegian band">
+            <url>https://www.setlist.fm/setlists/motorpsycho-63d62abb.html</url>
+        </artist>
+        <venue id="43d20b67" name="Metropool Jupiler Stage">
+            <city id="2754394" name="Hengelo" state="Overijssel" stateCode="15">
+                <coords lat="52.265833" long="6.793056"/>
+                <country code="NL" name="Netherlands"/>
+            </city>
+            <url>https://www.setlist.fm/venue/metropool-jupiler-stage-hengelo-netherlands-43d20b67.html</url>
+        </venue>
+        <tour name="The Crucible"/>
+        <sets>
+            <set>
+                <song name="The Crucible"/>
+                <song name="Upstairs-Downstairs"/>
+                <song name="Mountain"/>
+                <song name="California (I'm so sold)"/>
+                <song name="Mad Sun"/>
+                <song name="Whip That Ghost (Song for a Bro')"/>
+                <song name="The Tower"/>
+                <song name="Psychotzar" segue="true"/>
+                <song name="Bonny Lee"/>
+                <song name="The Jig Is Up (Kiss the Snake)" segue="true"/>
+                <song name="The Wheel"/>
+            </set>
+            <set encore="1">
+                <song name="Fools Gold"/>
+            </set>
+        </sets>
+        <url>https://www.setlist.fm/setlist/motorpsycho/2019/metropool-jupiler-stage-hengelo-netherlands-39d81f3.html</url>
+    </setlist>
+    <setlist status="confirmed" id="2b9df4ee" versionId="530faf9d" eventDate="17-10-2019" lastUpdated="2019-10-18T07:43:23.000+0000">
+        <source>Recording</source>
+        <artist mbid="5d0764c8-b14a-47fb-adc7-2ba9fb5f0d76" name="Motorpsycho" sortName="Motorpsycho" disambiguation="Norwegian band">
+            <url>https://www.setlist.fm/setlists/motorpsycho-63d62abb.html</url>
+        </artist>
+        <venue id="2bd6348a" name="Festsaal Kreuzberg">
+            <city id="2950159" name="Berlin" state="Berlin" stateCode="16">
+                <coords lat="52.5166667" long="13.4"/>
+                <country code="DE" name="Germany"/>
+            </city>
+            <url>https://www.setlist.fm/venue/festsaal-kreuzberg-berlin-germany-2bd6348a.html</url>
+        </venue>
+        <tour name="The Crucible"/>
+        <sets>
+            <set>
+                <song name="Year Zero (A damage report)"/>
+                <song name="Mockingbird"/>
+                <song name="The Cuckoo"/>
+                <song name="The Crucible"/>
+                <song name="On My Pillow"/>
+                <song name="Mad Sun"/>
+                <song name="A Pacific Sonata">
+                    <notes>Written on the setlist as Spreesonate</notes>
+                </song>
+                <song name="No Evil" segue="true">
+                </song>
+                <song name="Hey Jane"/>
+                <song name="Starhammer" segue="true"/>
+                <song name="Bonny Lee"/>
+                <song name="Psychotzar" segue="true"/>
+                <song name="Spin, Spin, Spin" segue="true">
+                    <cover mbid="44fd61e1-119c-479e-8301-8ac5c77148bf" name="Terry Callier" sortName="Callier, Terry" disambiguation="">
+                        <url>https://www.setlist.fm/setlists/terry-callier-43d7ff9f.html</url>
+                    </cover>
+                </song>
+                <song name="Hogwash" segue="true"/>
+                <song name="Halleluwah" segue="true">
+                    <cover mbid="13501c7d-d181-45ba-af52-5f101d8516a0" name="Can" sortName="Can" disambiguation="German rock band">
+                        <url>https://www.setlist.fm/setlists/can-3d6a15f.html</url>
+                    </cover>
+                </song>
+                <song name="Spin, Spin, Spin" segue="true">
+                    <cover mbid="44fd61e1-119c-479e-8301-8ac5c77148bf" name="Terry Callier" sortName="Callier, Terry" disambiguation="">
+                        <url>https://www.setlist.fm/setlists/terry-callier-43d7ff9f.html</url>
+                    </cover>
+                </song>
+                <song name="Hogwash"/>
+            </set>
+            <set encore="1">
+                <song name="The Tower"/>
+                <song name="Lux Aeterna"/>
+            </set>
+        </sets>
+        <url>https://www.setlist.fm/setlist/motorpsycho/2019/festsaal-kreuzberg-berlin-germany-2b9df4ee.html</url>
+    </setlist>
+    <setlist status="confirmed" id="4b9dffa6" versionId="b0fb5a2" eventDate="16-10-2019" lastUpdated="2019-10-17T18:39:21.000+0000">
+        <source>Recording</source>
+        <artist mbid="5d0764c8-b14a-47fb-adc7-2ba9fb5f0d76" name="Motorpsycho" sortName="Motorpsycho" disambiguation="Norwegian band">
+            <url>https://www.setlist.fm/setlists/motorpsycho-63d62abb.html</url>
+        </artist>
+        <venue id="1bd635bc" name="Conne Island">
+            <city id="2879139" name="Leipzig" state="Saxony" stateCode="13">
+                <coords lat="51.33962" long="12.371292"/>
+                <country code="DE" name="Germany"/>
+            </city>
+            <url>https://www.setlist.fm/venue/conne-island-leipzig-germany-1bd635bc.html</url>
+        </venue>
+        <tour name="The Crucible"/>
+        <sets>
+            <set>
+                <song name="The Crucible"/>
+                <song name="Upstairs-Downstairs"/>
+                <song name="Überwagner or a Billion Bubbles in My Mind" segue="true"/>
+                <song name="The Pilgrim">
+                    <cover mbid="406f1b42-0c9e-4427-aeb7-02f78e188ec4" name="Wishbone Ash" sortName="Wishbone Ash" disambiguation="">
+                        <url>https://www.setlist.fm/setlists/wishbone-ash-23d6ac6f.html</url>
+                    </cover>
+                </song>
+                <song name="In Every Dream Home"/>
+                <song name="Granny Takes a Trip"/>
+                <song name="August">
+                    <cover mbid="34ec9a8d-c65b-48fd-bcdd-aad2f72fdb47" name="Love" sortName="Love" disambiguation="folk-rock/psychedelic band">
+                        <url>https://www.setlist.fm/setlists/love-33d6ac91.html</url>
+                    </cover>
+                </song>
+                <song name="Mountain">
+                    <notes>Written on the setlist as Mountainbiker</notes>
+                </song>
+                <song name="On My Pillow">
+                    <notes>Semi-acoustic</notes>
+                </song>
+                <song name="Mad Sun">
+                    <notes>Acoustic</notes>
+                </song>
+                <song name="Feel"/>
+                <song name="Starhammer"/>
+                <song name="For Mad Men Only">
+                    <cover mbid="7210493e-b497-4d4b-bfbc-561bec4ed0f4" name="May Blitz" sortName="May Blitz" disambiguation="">
+                        <url>https://www.setlist.fm/setlists/may-blitz-33d63485.html</url>
+                    </cover>
+                </song>
+                <song name="Psychotzar"/>
+                <song name="Bonny Lee"/>
+                <song name="Walking on the Water"/>
+            </set>
+            <set encore="1">
+                <song name="The Tower"/>
+                <song name="Fools Gold"/>
+            </set>
+        </sets>
+        <url>https://www.setlist.fm/setlist/motorpsycho/2019/conne-island-leipzig-germany-4b9dffa6.html</url>
+    </setlist>
+    <setlist status="confirmed" id="339d989d" versionId="4b0e4fd6" eventDate="15-10-2019" lastUpdated="2019-10-16T17:40:06.000+0000">
+        <source>Recording</source>
+        <artist mbid="5d0764c8-b14a-47fb-adc7-2ba9fb5f0d76" name="Motorpsycho" sortName="Motorpsycho" disambiguation="Norwegian band">
+            <url>https://www.setlist.fm/setlists/motorpsycho-63d62abb.html</url>
+        </artist>
+        <venue id="3d7c963" name="Künstlerhaus Mousonturm">
+            <city id="2925533" name="Frankfurt" state="Hesse" stateCode="05">
+                <coords lat="50.1166667" long="8.6833333"/>
+                <country code="DE" name="Germany"/>
+            </city>
+            <url>https://www.setlist.fm/venue/kunstlerhaus-mousonturm-frankfurt-germany-3d7c963.html</url>
+        </venue>
+        <tour name="The Crucible"/>
+        <sets>
+            <set>
+                <song name="The Crucible"/>
+                <song name="A Pacific Sonata"/>
+                <song name="Mockingbird"/>
+                <song name="Überwagner or a Billion Bubbles in My Mind" segue="true"/>
+                <song name="The Pilgrim">
+                    <cover mbid="406f1b42-0c9e-4427-aeb7-02f78e188ec4" name="Wishbone Ash" sortName="Wishbone Ash" disambiguation="">
+                        <url>https://www.setlist.fm/setlists/wishbone-ash-23d6ac6f.html</url>
+                    </cover>
+                </song>
+                <song name="Whip That Ghost (Song for a Bro')"/>
+                <song name="On My Pillow"/>
+                <song name="Mad Sun"/>
+                <song name="A.S.F.E."/>
+                <song name="The Tower"/>
+                <song name="Psychotzar" segue="true"/>
+                <song name="Bonny Lee"/>
+                <song name="Mountain"/>
+            </set>
+            <set encore="1">
+                <song name="Fools Gold"/>
+            </set>
+        </sets>
+        <url>https://www.setlist.fm/setlist/motorpsycho/2019/kunstlerhaus-mousonturm-frankfurt-germany-339d989d.html</url>
+    </setlist>
+    <setlist status="confirmed" id="2b9da4b2" versionId="130fb5a1" eventDate="13-10-2019" lastUpdated="2019-10-17T18:40:33.000+0000">
+        <source>Recording</source>
+        <artist mbid="5d0764c8-b14a-47fb-adc7-2ba9fb5f0d76" name="Motorpsycho" sortName="Motorpsycho" disambiguation="Norwegian band">
+            <url>https://www.setlist.fm/setlists/motorpsycho-63d62abb.html</url>
+        </artist>
+        <venue id="bd63586" name="Viper">
+            <city id="3176959" name="Florence" state="Tuscany" stateCode="16">
+                <coords lat="43.7666667" long="11.25"/>
+                <country code="IT" name="Italy"/>
+            </city>
+            <url>https://www.setlist.fm/venue/viper-florence-italy-bd63586.html</url>
+        </venue>
+        <tour name="The Crucible"/>
+        <sets>
+            <set>
+                <song name="Bonny Lee"/>
+                <song name="Psychotzar"/>
+                <song name="The Crucible"/>
+                <song name="Pills, Powders &amp; Passion Plays"/>
+                <song name="Granny Takes a Trip"/>
+                <song name="Mockingbird"/>
+                <song name="In Every Dream Home"/>
+                <song name="Greener"/>
+                <song name="Feel"/>
+                <song name="A.S.F.E."/>
+                <song name="Starhammer" segue="true"/>
+                <song name="Walking on the Water" segue="true"/>
+                <song name="Black to Comm">
+                    <cover mbid="08b736bb-1c82-40b4-8b0b-49e2182a067a" name="MC5" sortName="MC5" disambiguation="">
+                        <url>https://www.setlist.fm/setlists/mc5-3bd6ac6c.html</url>
+                    </cover>
+                </song>
+            </set>
+            <set encore="1">
+                <song name="Mad Sun"/>
+                <song name="Fools Gold"/>
+            </set>
+        </sets>
+        <url>https://www.setlist.fm/setlist/motorpsycho/2019/viper-florence-italy-2b9da4b2.html</url>
+    </setlist>
+    <setlist status="unconfirmed" id="7b9daee0" versionId="30fb5a7" eventDate="12-10-2019" lastUpdated="2019-10-17T18:42:49.000+0000">
+        <source>setlist.fm and setlist scan on Instagram</source>
+        <artist mbid="5d0764c8-b14a-47fb-adc7-2ba9fb5f0d76" name="Motorpsycho" sortName="Motorpsycho" disambiguation="Norwegian band">
+            <url>https://www.setlist.fm/setlists/motorpsycho-63d62abb.html</url>
+        </artist>
+        <venue id="2bd670f2" name="Urban">
+            <city id="3171180" name="Perugia" state="Umbria" stateCode="18">
+                <coords lat="43.096743" long="12.382858"/>
+                <country code="IT" name="Italy"/>
+            </city>
+            <url>https://www.setlist.fm/venue/urban-perugia-italy-2bd670f2.html</url>
+        </venue>
+        <tour name="The Crucible"/>
+        <sets>
+            <set>
+                <song name="A.S.F.E."/>
+                <song name="Überwagner or a Billion Bubbles in My Mind" segue="true"/>
+                <song name="The Pilgrim">
+                    <cover mbid="406f1b42-0c9e-4427-aeb7-02f78e188ec4" name="Wishbone Ash" sortName="Wishbone Ash" disambiguation="">
+                        <url>https://www.setlist.fm/setlists/wishbone-ash-23d6ac6f.html</url>
+                    </cover>
+                </song>
+                <song name="Mockingbird"/>
+                <song name="Psychotzar"/>
+                <song name="California (I'm so sold)"/>
+                <song name="Mad Sun"/>
+                <song name="The Crucible"/>
+                <song name="August">
+                    <cover mbid="34ec9a8d-c65b-48fd-bcdd-aad2f72fdb47" name="Love" sortName="Love" disambiguation="folk-rock/psychedelic band">
+                        <url>https://www.setlist.fm/setlists/love-33d6ac91.html</url>
+                    </cover>
+                </song>
+                <song name="Granny Takes a Trip"/>
+                <song name="Bonny Lee"/>
+                <song name="No Evil"/>
+                <song name="Mantrick Muffin Stomp"/>
+            </set>
+            <set encore="1">
+                <song name="Feel"/>
+                <song name="The Tower"/>
+            </set>
+        </sets>
+        <notes>setlist.fm and setlist scan differs</notes>
+        <url>https://www.setlist.fm/setlist/motorpsycho/2019/urban-perugia-italy-7b9daee0.html</url>
+    </setlist>
+    <setlist status="confirmed" id="2b9db4d2" versionId="2b0e6c42" eventDate="11-10-2019" lastUpdated="2019-10-15T08:51:42.000+0000">
+        <source>Recording</source>
+        <artist mbid="5d0764c8-b14a-47fb-adc7-2ba9fb5f0d76" name="Motorpsycho" sortName="Motorpsycho" disambiguation="Norwegian band">
+            <url>https://www.setlist.fm/setlists/motorpsycho-63d62abb.html</url>
+        </artist>
+        <venue id="63d7e2b7" name="Latteria Artigianale Molloy">
+            <city id="3181554" name="Brescia" state="Lombardy" stateCode="09">
+                <coords lat="45.524782" long="10.227269"/>
+                <country code="IT" name="Italy"/>
+            </city>
+            <url>https://www.setlist.fm/venue/latteria-artigianale-molloy-brescia-italy-63d7e2b7.html</url>
+        </venue>
+        <tour name="The Crucible"/>
+        <sets>
+            <set name="Electric Set 1">
+                <song name="Year Zero (A damage report)"/>
+                <song name="The Jig Is Up (Kiss the Snake)"/>
+                <song name="Psychotzar"/>
+                <song name="Hogwash" segue="true"/>
+                <song name="Halleluwah" segue="true">
+                    <cover mbid="13501c7d-d181-45ba-af52-5f101d8516a0" name="Can" sortName="Can" disambiguation="German rock band">
+                        <url>https://www.setlist.fm/setlists/can-3d6a15f.html</url>
+                    </cover>
+                </song>
+                <song name="Spin, Spin, Spin">
+                    <cover mbid="44fd61e1-119c-479e-8301-8ac5c77148bf" name="Terry Callier" sortName="Callier, Terry" disambiguation="">
+                        <url>https://www.setlist.fm/setlists/terry-callier-43d7ff9f.html</url>
+                    </cover>
+                </song>
+                <song name="Hogwash"/>
+                <song name="Mockingbird"/>
+                <song name="Greener"/>
+                <song name="Mountain" segue="true"/>
+                <song name="Bonny Lee"/>
+                <song name="The Cuckoo"/>
+                <song name="The Crucible"/>
+            </set>
+            <set name="Acoustic">
+                <song name="California (I'm so sold)"/>
+                <song name="Mad Sun"/>
+                <song name="Feel"/>
+            </set>
+            <set name="Electric Set 2">
+                <song name="A.S.F.E."/>
+                <song name="Überwagner or a Billion Bubbles in My Mind" segue="true"/>
+                <song name="The Pilgrim">
+                    <cover mbid="406f1b42-0c9e-4427-aeb7-02f78e188ec4" name="Wishbone Ash" sortName="Wishbone Ash" disambiguation="">
+                        <url>https://www.setlist.fm/setlists/wishbone-ash-23d6ac6f.html</url>
+                    </cover>
+                </song>
+                <song name="The Tower"/>
+                <song name="Fools Gold"/>
+            </set>
+        </sets>
+        <url>https://www.setlist.fm/setlist/motorpsycho/2019/latteria-artigianale-molloy-brescia-italy-2b9db4d2.html</url>
+    </setlist>
+    <setlist status="confirmed" id="4b9dbf16" versionId="30fb59b" eventDate="10-10-2019" lastUpdated="2019-10-17T18:44:31.000+0000">
+        <source>Forum post</source>
+        <artist mbid="5d0764c8-b14a-47fb-adc7-2ba9fb5f0d76" name="Motorpsycho" sortName="Motorpsycho" disambiguation="Norwegian band">
+            <url>https://www.setlist.fm/setlists/motorpsycho-63d62abb.html</url>
+        </artist>
+        <venue id="3d61d77" name="Hiroshima Mon Amour">
+            <city id="3165524" name="Turin" state="Piedmont" stateCode="12">
+                <coords lat="45.0704898496472" long="7.68682479858398"/>
+                <country code="IT" name="Italy"/>
+            </city>
+            <url>https://www.setlist.fm/venue/hiroshima-mon-amour-turin-italy-3d61d77.html</url>
+        </venue>
+        <tour name="The Crucible"/>
+        <sets>
+            <set>
+                <song name="A.S.F.E."/>
+                <song name="Überwagner or a Billion Bubbles in My Mind" segue="true"/>
+                <song name="The Pilgrim">
+                    <cover mbid="406f1b42-0c9e-4427-aeb7-02f78e188ec4" name="Wishbone Ash" sortName="Wishbone Ash" disambiguation="">
+                        <url>https://www.setlist.fm/setlists/wishbone-ash-23d6ac6f.html</url>
+                    </cover>
+                </song>
+                <song name="Mockingbird"/>
+                <song name="The Tower"/>
+                <song name="California (I'm so sold)"/>
+                <song name="Mad Sun"/>
+                <song name="The Crucible"/>
+                <song name="The Light Fantastic"/>
+                <song name="August">
+                    <cover mbid="34ec9a8d-c65b-48fd-bcdd-aad2f72fdb47" name="Love" sortName="Love" disambiguation="folk-rock/psychedelic band">
+                        <url>https://www.setlist.fm/setlists/love-33d6ac91.html</url>
+                    </cover>
+                </song>
+                <song name="Granny Takes a Trip"/>
+                <song name="Mountain" segue="true"/>
+                <song name="Nothing to Say" segue="true"/>
+                <song name="Bonny Lee"/>
+                <song name="Psychotzar" segue="true"/>
+                <song name="Walking on the Water"/>
+            </set>
+            <set encore="1">
+                <song name="Feel"/>
+                <song name="Lux Aeterna"/>
+            </set>
+        </sets>
+        <url>https://www.setlist.fm/setlist/motorpsycho/2019/hiroshima-mon-amour-turin-italy-4b9dbf16.html</url>
+    </setlist>
+    <setlist status="confirmed" id="b9c41fa" versionId="630ede67" eventDate="09-10-2019" lastUpdated="2019-10-09T22:35:37.000+0000">
+        <source>Forum post / Instagram</source>
+        <artist mbid="5d0764c8-b14a-47fb-adc7-2ba9fb5f0d76" name="Motorpsycho" sortName="Motorpsycho" disambiguation="Norwegian band">
+            <url>https://www.setlist.fm/setlists/motorpsycho-63d62abb.html</url>
+        </artist>
+        <venue id="2bd38c96" name="Capitol Music Hall">
+            <city id="3170147" name="Pordenone" state="Friuli" stateCode="06">
+                <coords lat="45.9638889" long="12.6575"/>
+                <country code="IT" name="Italy"/>
+            </city>
+            <url>https://www.setlist.fm/venue/capitol-music-hall-pordenone-italy-2bd38c96.html</url>
+        </venue>
+        <tour name="The Crucible"/>
+        <sets>
+            <set>
+                <song name="The Crucible"/>
+                <song name="Manmower"/>
+                <song name="Whip That Ghost (Song for a Bro')"/>
+                <song name="California (I'm so sold)"/>
+                <song name="Mad Sun"/>
+                <song name="Un chien d'espace"/>
+                <song name="A Pacific Sonata"/>
+                <song name="Greener"/>
+                <song name="Upstairs-Downstairs"/>
+                <song name="Psychotzar" segue="true"/>
+                <song name="Hogwash" segue="true"/>
+                <song name="Spin, Spin, Spin">
+                    <cover mbid="44fd61e1-119c-479e-8301-8ac5c77148bf" name="Terry Callier" sortName="Callier, Terry" disambiguation="">
+                        <url>https://www.setlist.fm/setlists/terry-callier-43d7ff9f.html</url>
+                    </cover>
+                </song>
+                <song name="The Tower"/>
+            </set>
+            <set encore="1">
+                <song name="Feel"/>
+            </set>
+        </sets>
+        <notes>Year Zero was on setlist after Feel, but was not played according to audience report.</notes>
+        <url>https://www.setlist.fm/setlist/motorpsycho/2019/capitol-music-hall-pordenone-italy-b9c41fa.html</url>
+    </setlist>
+    <setlist status="unconfirmed" id="1b9c4104" versionId="1b0fb598" eventDate="08-10-2019" lastUpdated="2019-10-17T18:46:09.000+0000">
+        <source>Forum posts + Facebook + setlist scan</source>
+        <artist mbid="5d0764c8-b14a-47fb-adc7-2ba9fb5f0d76" name="Motorpsycho" sortName="Motorpsycho" disambiguation="Norwegian band">
+            <url>https://www.setlist.fm/setlists/motorpsycho-63d62abb.html</url>
+        </artist>
+        <venue id="33d63485" name="Rote Fabrik">
+            <city id="2657896" name="Zurich" state="Zürich" stateCode="ZH">
+                <coords lat="47.3666667" long="8.55"/>
+                <country code="CH" name="Switzerland"/>
+            </city>
+            <url>https://www.setlist.fm/venue/rote-fabrik-zurich-switzerland-33d63485.html</url>
+        </venue>
+        <tour name="The Crucible"/>
+        <sets>
+            <set>
+                <song name="The Jig Is Up (Kiss the Snake)"/>
+                <song name="The Crucible"/>
+                <song name="Mad Sun"/>
+                <song name="Whip That Ghost (Song for a Bro')"/>
+                <song name="Überwagner or a Billion Bubbles in My Mind" segue="true"/>
+                <song name="The Pilgrim">
+                    <cover mbid="406f1b42-0c9e-4427-aeb7-02f78e188ec4" name="Wishbone Ash" sortName="Wishbone Ash" disambiguation="">
+                        <url>https://www.setlist.fm/setlists/wishbone-ash-23d6ac6f.html</url>
+                    </cover>
+                </song>
+                <song name="Granny Takes a Trip"/>
+                <song name="Pills, Powders &amp; Passion Plays"/>
+                <song name="Mountain" segue="true"/>
+                <song name="Nothing to Say" segue="true"/>
+                <song name="Mountain"/>
+                <song name="Bonny Lee" segue="true"/>
+                <song name="Spin, Spin, Spin" segue="true">
+                    <cover mbid="44fd61e1-119c-479e-8301-8ac5c77148bf" name="Terry Callier" sortName="Callier, Terry" disambiguation="">
+                        <url>https://www.setlist.fm/setlists/terry-callier-43d7ff9f.html</url>
+                    </cover>
+                </song>
+                <song name="Bonny Lee"/>
+                <song name="Psychotzar"/>
+                <song name="The Tower"/>
+            </set>
+            <set encore="1">
+                <song name="No Evil"/>
+                <song name="Hey Jane"/>
+            </set>
+            <set encore="2">
+                <song name="Lux Aeterna"/>
+            </set>
+        </sets>
+        <url>https://www.setlist.fm/setlist/motorpsycho/2019/rote-fabrik-zurich-switzerland-1b9c4104.html</url>
+    </setlist>
+    <setlist status="unconfirmed" id="b9c6136" versionId="b0fb59e" eventDate="05-10-2019" lastUpdated="2019-10-17T18:47:07.000+0000">
+        <source>Forum post</source>
+        <artist mbid="5d0764c8-b14a-47fb-adc7-2ba9fb5f0d76" name="Motorpsycho" sortName="Motorpsycho" disambiguation="Norwegian band">
+            <url>https://www.setlist.fm/setlists/motorpsycho-63d62abb.html</url>
+        </artist>
+        <venue id="7bd63a7c" name="Willemeen">
+            <city id="2759661" name="Arnhem" state="Gelderland" stateCode="03">
+                <coords lat="51.98" long="5.911111"/>
+                <country code="NL" name="Netherlands"/>
+            </city>
+            <url>https://www.setlist.fm/venue/willemeen-arnhem-netherlands-7bd63a7c.html</url>
+        </venue>
+        <tour name="The Crucible"/>
+        <sets>
+            <set>
+                <song name="The Crucible"/>
+                <song name="The Light Fantastic" segue="true"/>
+                <song name="Triggerman"/>
+                <song name="Granny Takes a Trip"/>
+                <song name="In Every Dream Home"/>
+                <song name="A Pacific Sonata"/>
+                <song name="Ship of Fools"/>
+                <song name="Mountain" segue="true"/>
+                <song name="Bonny Lee"/>
+                <song name="Psychotzar" segue="true"/>
+                <song name="Hogwash" segue="true"/>
+                <song name="Spin, Spin, Spin" segue="true">
+                    <cover mbid="44fd61e1-119c-479e-8301-8ac5c77148bf" name="Terry Callier" sortName="Callier, Terry" disambiguation="">
+                        <url>https://www.setlist.fm/setlists/terry-callier-43d7ff9f.html</url>
+                    </cover>
+                </song>
+                <song name="Halleluwah" segue="true">
+                    <cover mbid="13501c7d-d181-45ba-af52-5f101d8516a0" name="Can" sortName="Can" disambiguation="German rock band">
+                        <url>https://www.setlist.fm/setlists/can-3d6a15f.html</url>
+                    </cover>
+                </song>
+                <song name="Spin, Spin, Spin" segue="true">
+                    <cover mbid="44fd61e1-119c-479e-8301-8ac5c77148bf" name="Terry Callier" sortName="Callier, Terry" disambiguation="">
+                        <url>https://www.setlist.fm/setlists/terry-callier-43d7ff9f.html</url>
+                    </cover>
+                </song>
+                <song name="Hogwash"/>
+            </set>
+            <set encore="1">
+                <song name="Year Zero (A damage report)"/>
+            </set>
+        </sets>
+        <url>https://www.setlist.fm/setlist/motorpsycho/2019/willemeen-arnhem-netherlands-b9c6136.html</url>
+    </setlist>
+    <setlist status="unconfirmed" id="1b9c6130" versionId="b0fb592" eventDate="04-10-2019" lastUpdated="2019-10-17T18:48:05.000+0000">
+        <source>setlist.fm</source>
+        <artist mbid="5d0764c8-b14a-47fb-adc7-2ba9fb5f0d76" name="Motorpsycho" sortName="Motorpsycho" disambiguation="Norwegian band">
+            <url>https://www.setlist.fm/setlists/motorpsycho-63d62abb.html</url>
+        </artist>
+        <venue id="13d27539" name="Salle Baudouin IV">
+            <city id="2801150" name="Braine-le-Comte" state="Hainaut" stateCode="BE.HT">
+                <coords lat="50.6" long="4.133"/>
+                <country code="BE" name="Belgium"/>
+            </city>
+            <url>https://www.setlist.fm/venue/salle-baudouin-iv-braine-le-comte-belgium-13d27539.html</url>
+        </venue>
+        <tour name="The Crucible"/>
+        <sets>
+            <set>
+                <song name="No Evil"/>
+                <song name="The Crucible"/>
+                <song name="Lux Aeterna"/>
+                <song name="The Tower"/>
+                <song name="Manmower"/>
+                <song name="Granny Takes a Trip"/>
+                <song name="Whip That Ghost (Song for a Bro')"/>
+                <song name="Überwagner or a Billion Bubbles in My Mind" segue="true"/>
+                <song name="The Pilgrim">
+                    <cover mbid="406f1b42-0c9e-4427-aeb7-02f78e188ec4" name="Wishbone Ash" sortName="Wishbone Ash" disambiguation="">
+                        <url>https://www.setlist.fm/setlists/wishbone-ash-23d6ac6f.html</url>
+                    </cover>
+                </song>
+                <song name="Psychotzar" segue="true"/>
+                <song name="Hogwash" segue="true"/>
+                <song name="Spin, Spin, Spin">
+                    <cover mbid="44fd61e1-119c-479e-8301-8ac5c77148bf" name="Terry Callier" sortName="Callier, Terry" disambiguation="">
+                        <url>https://www.setlist.fm/setlists/terry-callier-43d7ff9f.html</url>
+                    </cover>
+                    <info>With Hogwash finale</info>
+                </song>
+                <song name="Hogwash"/>
+                <song name="Mountain"/>
+            </set>
+            <set encore="1">
+                <song name="On a Plate"/>
+                <song name="Happy Birthday to You">
+                    <cover mbid="af522e56-fe5a-4607-b70a-a22ed35acdd0" name="Mildred J. Hill &amp; Patty Hill" sortName="Hill, Mildred J. &amp; Hill, Patty">
+                        <url>https://www.setlist.fm/setlists/mildred-j-hill-and-patty-hill-3d3fd73.html</url>
+                    </cover>
+                    <notes>To Reine</notes>
+                </song>
+                <song name="For Mad Men Only">
+                    <cover mbid="7210493e-b497-4d4b-bfbc-561bec4ed0f4" name="May Blitz" sortName="May Blitz" disambiguation="">
+                        <url>https://www.setlist.fm/setlists/may-blitz-33d63485.html</url>
+                    </cover>
+                    <notes>Reine Fiske on vocals</notes>
+                </song>
+                <song name="Fools Gold"/>
+            </set>
+        </sets>
+        <notes>Hey Jane was on the setlist right after No Evil, but they didn't play it, they skipped the first encore ('jig is up') as well. Fools Gold was not written on the setlist.</notes>
+        <url>https://www.setlist.fm/setlist/motorpsycho/2019/salle-baudouin-iv-braine-le-comte-belgium-1b9c6130.html</url>
+    </setlist>
+    <setlist status="unconfirmed" id="b9c7112" versionId="b0fb596" eventDate="03-10-2019" lastUpdated="2019-10-17T18:49:00.000+0000">
+        <source>Forum post</source>
+        <artist mbid="5d0764c8-b14a-47fb-adc7-2ba9fb5f0d76" name="Motorpsycho" sortName="Motorpsycho" disambiguation="Norwegian band">
+            <url>https://www.setlist.fm/setlists/motorpsycho-63d62abb.html</url>
+        </artist>
+        <venue id="53d5035d" name="Rotondes">
+            <city id="2960316" name="Luxembourg" state="Luxembourg" stateCode="03">
+                <coords lat="49.6116667" long="6.13"/>
+                <country code="LU" name="Luxembourg"/>
+            </city>
+            <url>https://www.setlist.fm/venue/rotondes-luxembourg-luxembourg-53d5035d.html</url>
+        </venue>
+        <tour name="The Crucible"/>
+        <sets>
+            <set>
+                <song name="Ship of Fools"/>
+                <song name="The Jig Is Up (Kiss the Snake)"/>
+                <song name="The Alchemyst"/>
+                <song name="Pills, Powders &amp; Passion Plays"/>
+                <song name="The Crucible"/>
+                <song name="A Pacific Sonata"/>
+                <song name="Überwagner or a Billion Bubbles in My Mind" segue="true"/>
+                <song name="The Pilgrim">
+                    <cover mbid="406f1b42-0c9e-4427-aeb7-02f78e188ec4" name="Wishbone Ash" sortName="Wishbone Ash" disambiguation="">
+                        <url>https://www.setlist.fm/setlists/wishbone-ash-23d6ac6f.html</url>
+                    </cover>
+                </song>
+                <song name="Improvisation">
+                    <info>by Snah, Bent &amp; Thomas due to technical problems with Reine's pedalboard.</info>
+                </song>
+                <song name="Granny Takes a Trip"/>
+                <song name="Psychotzar"/>
+                <song name="No Evil" segue="true"/>
+                <song name="Hey Jane"/>
+                <song name="Spin, Spin, Spin">
+                    <cover mbid="44fd61e1-119c-479e-8301-8ac5c77148bf" name="Terry Callier" sortName="Callier, Terry" disambiguation="">
+                        <url>https://www.setlist.fm/setlists/terry-callier-43d7ff9f.html</url>
+                    </cover>
+                </song>
+                <song name="Lux Aeterna"/>
+            </set>
+            <set encore="1">
+                <song name="The Tower"/>
+            </set>
+        </sets>
+        <url>https://www.setlist.fm/setlist/motorpsycho/2019/rotondes-luxembourg-luxembourg-b9c7112.html</url>
+    </setlist>
+    <setlist status="confirmed" id="439c03ff" versionId="53017fe5" eventDate="01-10-2019" lastUpdated="2019-10-02T06:26:49.000+0000">
+        <source>Recording</source>
+        <artist mbid="5d0764c8-b14a-47fb-adc7-2ba9fb5f0d76" name="Motorpsycho" sortName="Motorpsycho" disambiguation="Norwegian band">
+            <url>https://www.setlist.fm/setlists/motorpsycho-63d62abb.html</url>
+        </artist>
+        <venue id="43d62fab" name="Gloria Theater">
+            <city id="2886242" name="Cologne" state="North Rhine-Westphalia" stateCode="07">
+                <coords lat="50.9333333" long="6.95"/>
+                <country code="DE" name="Germany"/>
+            </city>
+            <url>https://www.setlist.fm/venue/gloria-theater-cologne-germany-43d62fab.html</url>
+        </venue>
+        <tour name="The Crucible"/>
+        <sets>
+            <set>
+                <song name="Year Zero (A damage report)"/>
+                <song name="Triggerman"/>
+                <song name="Manmower"/>
+                <song name="The Jig Is Up (Kiss the Snake)"/>
+                <song name="August">
+                    <cover mbid="34ec9a8d-c65b-48fd-bcdd-aad2f72fdb47" name="Love" sortName="Love" disambiguation="folk-rock/psychedelic band">
+                        <url>https://www.setlist.fm/setlists/love-33d6ac91.html</url>
+                    </cover>
+                </song>
+                <song name="Whip That Ghost (Song for a Bro')"/>
+                <song name="The Crucible"/>
+                <song name="Upstairs-Downstairs"/>
+                <song name="Psychotzar" segue="true"/>
+                <song name="Spin, Spin, Spin">
+                    <cover mbid="44fd61e1-119c-479e-8301-8ac5c77148bf" name="Terry Callier" sortName="Callier, Terry" disambiguation="">
+                        <url>https://www.setlist.fm/setlists/terry-callier-43d7ff9f.html</url>
+                    </cover>
+                </song>
+                <song name="No Evil"/>
+                <song name="Hey Jane"/>
+                <song name="Mountain"/>
+            </set>
+            <set encore="1">
+                <song name="The Tower"/>
+                <song name="Fools Gold"/>
+            </set>
+        </sets>
+        <url>https://www.setlist.fm/setlist/motorpsycho/2019/gloria-theater-cologne-germany-439c03ff.html</url>
+    </setlist>
+    <setlist id="4b9c03fa" versionId="6b01122a" eventDate="30-09-2019" lastUpdated="2019-10-01T14:47:00.000+0000">
+        <artist mbid="5d0764c8-b14a-47fb-adc7-2ba9fb5f0d76" name="Motorpsycho" sortName="Motorpsycho" disambiguation="Norwegian band">
+            <url>https://www.setlist.fm/setlists/motorpsycho-63d62abb.html</url>
+        </artist>
+        <venue id="bd3a9de" name="Paradiso Noord - Tolhuistuin Concertzaal">
+            <city id="2759794" name="Amsterdam" state="North Holland" stateCode="07">
+                <coords lat="52.373" long="4.9"/>
+                <country code="NL" name="Netherlands"/>
+            </city>
+            <url>https://www.setlist.fm/venue/paradiso-noord-tolhuistuin-concertzaal-amsterdam-netherlands-bd3a9de.html</url>
+        </venue>
+        <tour name="The Crucible"/>
+        <sets>
+            <set>
+                <song name="In Every Dream Home"/>
+                <song name="The Alchemyst"/>
+                <song name="Mountain"/>
+                <song name="Pills, Powders + Passion Plays"/>
+                <song name="The Jig Is Up (Kiss the Snake)"/>
+                <song name="The Crucible"/>
+                <song name="A Pacific Sonata"/>
+                <song name="Überwagner or a Billion Bubbles in My Mind"/>
+                <song name="The Pilgrim">
+                    <cover mbid="406f1b42-0c9e-4427-aeb7-02f78e188ec4" name="Wishbone Ash" sortName="Wishbone Ash" disambiguation="">
+                        <url>https://www.setlist.fm/setlists/wishbone-ash-23d6ac6f.html</url>
+                    </cover>
+                </song>
+                <song name="Psychotzar"/>
+                <song name="Hogwash"/>
+                <song name="No Evil"/>
+                <song name="Hey Jane"/>
+            </set>
+            <set encore="1">
+                <song name="Fools Gold"/>
+            </set>
+        </sets>
+        <url>https://www.setlist.fm/setlist/motorpsycho/2019/paradiso-noord-tolhuistuin-concertzaal-amsterdam-netherlands-4b9c03fa.html</url>
+    </setlist>
+    <setlist status="confirmed" id="1b9c11b8" versionId="6b0136c2" eventDate="29-09-2019" lastUpdated="2019-09-29T23:07:30.000+0000">
+        <source>Recording</source>
+        <artist mbid="5d0764c8-b14a-47fb-adc7-2ba9fb5f0d76" name="Motorpsycho" sortName="Motorpsycho" disambiguation="Norwegian band">
+            <url>https://www.setlist.fm/setlists/motorpsycho-63d62abb.html</url>
+        </artist>
+        <venue id="33d2c879" name="Kulturzentrum Schlachthof">
+            <city id="2944388" name="Bremen" state="Bremen" stateCode="03">
+                <coords lat="53.075155679403" long="8.80777359008789"/>
+                <country code="DE" name="Germany"/>
+            </city>
+            <url>https://www.setlist.fm/venue/kulturzentrum-schlachthof-bremen-germany-33d2c879.html</url>
+        </venue>
+        <tour name="The Crucible"/>
+        <sets>
+            <set>
+                <song name="The Crucible"/>
+                <song name="Whip That Ghost (Song for a Bro')"/>
+                <song name="The Tower"/>
+                <song name="Manmower"/>
+                <song name="Mountain"/>
+                <song name="A Pacific Sonata"/>
+                <song name="Überwagner or a Billion Bubbles in My Mind" segue="true"/>
+                <song name="The Pilgrim">
+                    <cover mbid="406f1b42-0c9e-4427-aeb7-02f78e188ec4" name="Wishbone Ash" sortName="Wishbone Ash" disambiguation="">
+                        <url>https://www.setlist.fm/setlists/wishbone-ash-23d6ac6f.html</url>
+                    </cover>
+                </song>
+                <song name="No Evil"/>
+                <song name="Psychotzar" segue="true"/>
+                <song name="Walking on the Water" segue="true"/>
+                <song name="Black to Comm">
+                    <cover mbid="08b736bb-1c82-40b4-8b0b-49e2182a067a" name="MC5" sortName="MC5" disambiguation="">
+                        <url>https://www.setlist.fm/setlists/mc5-3bd6ac6c.html</url>
+                    </cover>
+                </song>
+            </set>
+            <set encore="1">
+                <song name="Fools Gold"/>
+            </set>
+        </sets>
+        <url>https://www.setlist.fm/setlist/motorpsycho/2019/kulturzentrum-schlachthof-bremen-germany-1b9c11b8.html</url>
+    </setlist>
+    <setlist status="confirmed" id="b9c11ba" versionId="2b01c022" eventDate="28-09-2019" lastUpdated="2019-09-29T07:37:31.000+0000">
+        <source>Recording</source>
+        <artist mbid="5d0764c8-b14a-47fb-adc7-2ba9fb5f0d76" name="Motorpsycho" sortName="Motorpsycho" disambiguation="Norwegian band">
+            <url>https://www.setlist.fm/setlists/motorpsycho-63d62abb.html</url>
+        </artist>
+        <venue id="5bd66f10" name="Posten">
+            <city id="2615876" name="Odense" state="Region South Denmark" stateCode="21">
+                <coords lat="55.3959381271672" long="10.3883135318756"/>
+                <country code="DK" name="Denmark"/>
+            </city>
+            <url>https://www.setlist.fm/venue/posten-odense-denmark-5bd66f10.html</url>
+        </venue>
+        <tour name="The Crucible"/>
+        <sets>
+            <set>
+                <song name="In Every Dream Home"/>
+                <song name="The Alchemyst"/>
+                <song name="The Crucible"/>
+                <song name="Upstairs-Downstairs"/>
+                <song name="Mountain"/>
+                <song name="A Pacific Sonata"/>
+                <song name="Überwagner or a Billion Bubbles in My Mind" segue="true"/>
+                <song name="The Pilgrim">
+                    <cover mbid="406f1b42-0c9e-4427-aeb7-02f78e188ec4" name="Wishbone Ash" sortName="Wishbone Ash" disambiguation="">
+                        <url>https://www.setlist.fm/setlists/wishbone-ash-23d6ac6f.html</url>
+                    </cover>
+                </song>
+                <song name="Greener"/>
+                <song name="Psychotzar"/>
+                <song name="Hogwash" segue="true"/>
+                <song name="Halleluwah">
+                    <cover mbid="13501c7d-d181-45ba-af52-5f101d8516a0" name="Can" sortName="Can" disambiguation="German rock band">
+                        <url>https://www.setlist.fm/setlists/can-3d6a15f.html</url>
+                    </cover>
+                    <info>With Hogwash finale</info>
+                </song>
+                <song name="Walking on the Water"/>
+            </set>
+            <set encore="1">
+                <song name="Fools Gold"/>
+            </set>
+        </sets>
+        <url>https://www.setlist.fm/setlist/motorpsycho/2019/posten-odense-denmark-b9c11ba.html</url>
+    </setlist>
+    <setlist status="confirmed" id="7b9cd668" versionId="230164f7" eventDate="20-09-2019" lastUpdated="2019-10-03T12:13:26.000+0000">
+        <source>MP Instagram</source>
+        <artist mbid="5d0764c8-b14a-47fb-adc7-2ba9fb5f0d76" name="Motorpsycho" sortName="Motorpsycho" disambiguation="Norwegian band">
+            <url>https://www.setlist.fm/setlists/motorpsycho-63d62abb.html</url>
+        </artist>
+        <venue id="73d70ef1" name="Fuzz Club">
+            <city id="264371" name="Athens">
+                <coords lat="37.9833333" long="23.7333333"/>
+                <country code="GR" name="Greece"/>
+            </city>
+            <url>https://www.setlist.fm/venue/fuzz-club-athens-greece-73d70ef1.html</url>
+        </venue>
+        <tour name="The Crucible"/>
+        <sets>
+            <set>
+                <song name="Year Zero (A damage report)"/>
+                <song name="In Every Dream Home"/>
+                <song name="Triggerman"/>
+                <song name="On a Plate"/>
+                <song name="Greener"/>
+                <song name="August">
+                    <cover mbid="34ec9a8d-c65b-48fd-bcdd-aad2f72fdb47" name="Love" sortName="Love" disambiguation="folk-rock/psychedelic band">
+                        <url>https://www.setlist.fm/setlists/love-33d6ac91.html</url>
+                    </cover>
+                </song>
+                <song name="The Tower"/>
+                <song name="Starhammer"/>
+                <song name="Mountain"/>
+                <song name="Into the Sun">
+                    <cover mbid="103241b0-6adf-4b4f-9cff-5c87459f61a4" name="Grand Funk Railroad" sortName="Grand Funk Railroad" disambiguation="">
+                        <url>https://www.setlist.fm/setlists/grand-funk-railroad-23d6ac1f.html</url>
+                    </cover>
+                </song>
+            </set>
+            <set encore="1">
+                <song name="Psychotzar"/>
+                <song name="Walking on the Water">
+                </song>
+            </set>
+        </sets>
+        <url>https://www.setlist.fm/setlist/motorpsycho/2019/fuzz-club-athens-greece-7b9cd668.html</url>
+    </setlist>
 
     <setlist status="confirmed" eventDate="15-09-2019">
-    <confirmationsource>Setlist scan</confirmationsource>
+    <source>Setlist scan</source>
         <artist name="Motorpsycho" sortName="Motorpsycho">
         </artist>
         <venue name="Factoría Cultural">
@@ -38,7 +951,7 @@
     </setlist>
 
     <setlist status="confirmed" eventDate="14-09-2019">
-    <confirmationsource>Setlist scan</confirmationsource>
+    <source>Setlist scan</source>
         <artist name="Motorpsycho" sortName="Motorpsycho">
         </artist>
         <venue name="Get Mad Festival">
@@ -48,7 +961,7 @@
         </venue>
         <sets>
             <set>
-                <song name="Year Zero" />
+                <song name="Year Zero (A damage report)" />
                 <song name="In Every Dream Home"/>
                 <song name="The Crucible"/>
                 <song name="Mountain"/>
@@ -71,7 +984,7 @@
     </setlist>
 
     <setlist status="confirmed" eventDate="13-09-2019">
-    <confirmationsource>Setlist scan</confirmationsource>
+    <source>Setlist scan</source>
         <artist name="Motorpsycho" sortName="Motorpsycho">
         </artist>
         <venue name="Dabadaba">
@@ -81,7 +994,7 @@
         </venue>
         <sets>
             <set>
-                <song name="Year Zero" />
+                <song name="Year Zero (A damage report)" />
                 <song name="In Every Dream Home"/>
                 <song name="The Crucible"/>
                 <song name="Mountain"/>
@@ -104,7 +1017,7 @@
     </setlist>
 
     <setlist status="unknown" eventDate="10-08-2019">
-    <confirmationsource>None</confirmationsource>
+    <source>None</source>
         <artist name="Motorpsycho with Friends" sortName="Motorpsycho">
         </artist>
         <venue name="Øyafestivalen">
@@ -114,13 +1027,18 @@
         </venue>
         <sets>
             <set name="">
+                <song name="The World">
+                    <notes>Working title</notes>
+                </song>
+                <song name="The Crucible" />
+                <song name="The Tower">
+                </song>
             </set>
         </sets>
-        <notes>Probably same as 2019-07-31</notes>
     </setlist>
 
     <setlist status="confirmed" eventDate="03-08-2019" lastUpdated="2019-05-05T08:27:12.000+0000">
-    <confirmationsource>Recording</confirmationsource>
+    <source>Recording</source>
         <artist mbid="5d0764c8-b14a-47fb-adc7-2ba9fb5f0d76" tmid="741542" name="Motorpsycho" sortName="Motorpsycho" disambiguation="Norwegian band">
         </artist>
         <venue name="Ringnes Festival">
@@ -130,7 +1048,7 @@
         </venue>
         <sets>
             <set name="Electric Set 1">
-                <song name="Year Zero" />
+                <song name="Year Zero (A damage report)" />
                 <song name="August" segue="true">
                     <cover mbid="34ec9a8d-c65b-48fd-bcdd-aad2f72fdb47" name="Love" sortName="Love" disambiguation="folk-rock/psychedelic band">
                         <url>https://www.setlist.fm/setlists/love-33d6ac91.html</url>
@@ -166,7 +1084,7 @@
         </sets>
     </setlist>
     <setlist status="confirmed" eventDate="31-07-2019" lastUpdated="2019-05-05T08:27:12.000+0000">
-    <confirmationsource>Confirmed by multiple people attending the gig.</confirmationsource>
+    <source>Confirmed by multiple people attending the gig.</source>
         <artist name="Motorpsycho with Friends" sortName="Motorpsycho" disambiguation="Norwegian band">
         </artist>
         <venue name="Byscenen">
@@ -181,7 +1099,9 @@
                     <notes>Working title</notes>
                 </song>
                 <song name="The Crucible" />
-                <song name="The Tower" />
+                <song name="The Tower">
+                <notes>Extended to 20 minutes with a new violin section</notes>
+                </song>
             </set>
         </sets>
         <notes>Part of 'Olavsfestdagene 2019'. 'The World' was a commissioned piece consisting of four compositions inspired by paintings by Håkon Gullvåg.</notes>
@@ -12563,6 +13483,7 @@
         <url>https://www.setlist.fm/setlist/motorpsycho/2008/rosendal-trondheim-norway-5bdc9368.html</url>
     </setlist>
     <setlist status="unknown" id="33d9f085" versionId="3bf82c34" eventDate="18-04-2008" lastUpdated="2013-06-06T10:50:31.000+0000">
+        <source>Forum post</source>
         <artist mbid="5d0764c8-b14a-47fb-adc7-2ba9fb5f0d76" tmid="741542" name="Motorpsycho" sortName="Motorpsycho" disambiguation="Norwegian band">
             <url>https://www.setlist.fm/setlists/motorpsycho-63d62abb.html</url>
         </artist>
@@ -12591,7 +13512,7 @@
                 </song>
                 <song name="Neverland"/>
                 <song name="She Left on the Sun Ship"/>
-                <song name="Walking on the Water"/>
+                <song name="Walking on the Water" segue="true"/>
                 <song name="Black to Comm">
                     <cover mbid="08b736bb-1c82-40b4-8b0b-49e2182a067a" name="MC5" sortName="MC5" disambiguation="">
                         <url>https://www.setlist.fm/setlists/mc5-3bd6ac6c.html</url>
@@ -12600,8 +13521,9 @@
                 </song>
             </set>
             <set encore="1">
-                <song name="Heartattack Mac"/>
+                <song name="Heartattack Mac" segue="true"/>
                 <song name="The Alchemyst"/>
+                <song name="Year Zero"/>
             </set>
         </sets>
         <url>https://www.setlist.fm/setlist/motorpsycho/2008/studenten-steinkjer-norway-33d9f085.html</url>
@@ -31811,7 +32733,7 @@
         <url>https://www.setlist.fm/setlist/motorpsycho/1994/gleis-22-munster-germany-1bda71c0.html</url>
     </setlist>
     <setlist status="confirmed" id="13da71c1" versionId="53f18ff1" eventDate="22-05-1994" lastUpdated="2012-12-15T17:17:42.000+0000">
-        <confirmationsource>Audience recording</confirmationsource>
+        <source>Audience recording</source>
         <artist mbid="5d0764c8-b14a-47fb-adc7-2ba9fb5f0d76" tmid="741542" name="Motorpsycho" sortName="Motorpsycho" disambiguation="Norwegian band">
             <url>https://www.setlist.fm/setlists/motorpsycho-63d62abb.html</url>
         </artist>
@@ -31994,7 +32916,7 @@
         <url>https://www.setlist.fm/setlist/motorpsycho/1994/fenix-sittard-netherlands-bda71ca.html</url>
     </setlist>
     <setlist status="uncertain" id="1bda71d4" versionId="23f8b82b" eventDate="14-05-1994" lastUpdated="2013-05-29T13:28:29.000+0000">
-        <confirmationsource>Audience recording</confirmationsource>
+        <source>Audience recording</source>
         <artist mbid="5d0764c8-b14a-47fb-adc7-2ba9fb5f0d76" tmid="741542" name="Motorpsycho" sortName="Motorpsycho" disambiguation="Norwegian band">
             <url>https://www.setlist.fm/setlists/motorpsycho-63d62abb.html</url>
         </artist>
@@ -32526,7 +33448,7 @@
         <url>https://www.setlist.fm/setlist/motorpsycho/1993/villaggio-globale-rome-italy-13da71f9.html</url>
     </setlist>
     <setlist status="confirmed" id="bda71fa" versionId="7bf82a64" eventDate="21-09-1993" lastUpdated="2013-06-06T20:56:10.000+0000">
-        <confirmationsource>Audience recording</confirmationsource>
+        <source>Audience recording</source>
         <artist mbid="5d0764c8-b14a-47fb-adc7-2ba9fb5f0d76" tmid="741542" name="Motorpsycho" sortName="Motorpsycho" disambiguation="Norwegian band">
             <url>https://www.setlist.fm/setlists/motorpsycho-63d62abb.html</url>
         </artist>
@@ -32601,7 +33523,7 @@
         <url>https://www.setlist.fm/setlist/motorpsycho/1993/vera-groningen-netherlands-3da71fb.html</url>
     </setlist>
     <setlist status="confirmed" id="13da7105" versionId="3b8c8870" eventDate="18-09-1993" lastUpdated="2015-03-26T00:29:41.000+0000">
-        <confirmationsource>Audience recording</confirmationsource>
+        <source>Audience recording</source>
         <artist mbid="5d0764c8-b14a-47fb-adc7-2ba9fb5f0d76" tmid="741542" name="Motorpsycho" sortName="Motorpsycho" disambiguation="Norwegian band">
             <url>https://www.setlist.fm/setlists/motorpsycho-63d62abb.html</url>
         </artist>
@@ -33301,7 +34223,7 @@
         <url>https://www.setlist.fm/setlist/motorpsycho/1993/blue-monk-oslo-norway-23da744f.html</url>
     </setlist>
     <setlist status="confirmed" id="3bda7448" versionId="6bf82a56" eventDate="09-07-1993" lastUpdated="2013-06-06T20:56:10.000+0000">
-        <confirmationsource>Liberated bootleg DVD</confirmationsource>
+        <source>Liberated bootleg DVD</source>
         <artist mbid="5d0764c8-b14a-47fb-adc7-2ba9fb5f0d76" tmid="741542" name="Motorpsycho" sortName="Motorpsycho" disambiguation="Norwegian band">
             <url>https://www.setlist.fm/setlists/motorpsycho-63d62abb.html</url>
         </artist>
