@@ -1,5 +1,48 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<setlists itemsPerPage="20" page="1" total="891">
+<setlists>
+    <setlist status="confirmed" id="239a5cc3" versionId="330b7859" eventDate="07-12-2019" lastUpdated="2019-12-06T16:41:41.000+0000">
+        <source>Audience report</source>
+        <artist mbid="5d0764c8-b14a-47fb-adc7-2ba9fb5f0d76" name="Motorpsycho" sortName="Motorpsycho" disambiguation="Norwegian band">
+            <url>https://www.setlist.fm/setlists/motorpsycho-63d62abb.html</url>
+        </artist>
+        <venue id="63d62aa7" name="Byscenen">
+            <city name="Trondheim">
+                <country name="Norway"/>
+            </city>
+        </venue>
+        <tour name="The Crucible"/>
+        <sets>
+            <set>
+                <song name="Psychotzar" segue="true"/>
+                <song name="Bonny Lee"/>
+                <song name="The Crucible"/>
+                <song name="Upstairs-Downstairs"/>
+                <song name="On My Pillow"/>
+                <song name="Mountain"/>
+                <song name="California (I'm so sold)" notes="Acoustic"/>
+                <song name="Mad Sun" notes="Acoustic"/>
+                <song name="A Pacific Sonata" segue="true"/>
+                <song name="Überwagner or a Billion Bubbles in My Mind" segue="true"/>
+                <song name="The Pilgrim">
+                    <cover mbid="406f1b42-0c9e-4427-aeb7-02f78e188ec4" name="Wishbone Ash" sortName="Wishbone Ash" disambiguation="">
+                        <url>https://www.setlist.fm/setlists/wishbone-ash-23d6ac6f.html</url>
+                    </cover>
+                </song>
+
+                <song name="Hogwash" segue="true"/>
+                <song name="For Mad Men Only">
+                    <cover mbid="7210493e-b497-4d4b-bfbc-561bec4ed0f4" name="May Blitz" sortName="May Blitz" disambiguation="">
+                        <url>https://www.setlist.fm/setlists/may-blitz-33d63485.html</url>
+                    </cover>
+                </song>
+                <song name="The Tower"/>
+            </set>
+            <set encore="1">
+                <song name="Fools Gold"/>
+            </set>
+        </sets>
+        <url>https://www.setlist.fm/setlist/motorpsycho/2019/driv-tromso-norway-239a5cc3.html</url>
+    </setlist>
     <setlist status="confirmed" id="239a5cc3" versionId="330b7859" eventDate="05-12-2019" lastUpdated="2019-12-06T16:41:41.000+0000">
         <source>Official Instagram</source>
         <artist mbid="5d0764c8-b14a-47fb-adc7-2ba9fb5f0d76" name="Motorpsycho" sortName="Motorpsycho" disambiguation="Norwegian band">
@@ -71,7 +114,7 @@
                 <song name="On My Pillow"/>
                 <song name="A Pacific Sonata"/>
                 <song name="Starhammer" segue="true"/>
-                <song name="For Madmen Only">
+                <song name="For Mad Men Only">
                     <cover mbid="7210493e-b497-4d4b-bfbc-561bec4ed0f4" name="May Blitz" sortName="May Blitz" disambiguation="">
                         <url>https://www.setlist.fm/setlists/may-blitz-33d63485.html</url>
                     </cover>
@@ -215,7 +258,7 @@
                 </song>
                 <song name="Feel"/>
                 <song name="Starhammer"/>
-                <song name="For Madmen Only">
+                <song name="For Mad Men Only">
                     <cover mbid="7210493e-b497-4d4b-bfbc-561bec4ed0f4" name="May Blitz" sortName="May Blitz" disambiguation="">
                         <url>https://www.setlist.fm/setlists/may-blitz-33d63485.html</url>
                     </cover>
@@ -644,7 +687,7 @@
                     </cover>
                     <notes>To Reine</notes>
                 </song>
-                <song name="For Madmen Only">
+                <song name="For Mad Men Only">
                     <cover mbid="7210493e-b497-4d4b-bfbc-561bec4ed0f4" name="May Blitz" sortName="May Blitz" disambiguation="">
                         <url>https://www.setlist.fm/setlists/may-blitz-33d63485.html</url>
                     </cover>
