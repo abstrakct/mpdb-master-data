@@ -18179,8 +18179,8 @@
         </venue>
         <sets>
             <set>
-                <song name="Sunday Trane">
-                    <notes>Setlist: Enger</notes>
+                <song name="Enger">
+                    <aliasFor>Sunday Trane</aliasFor>
                 </song>
                 <song name="The Nerve Tattoo"/>
                 <song name="Neverland"/>
@@ -18283,7 +18283,7 @@
         <sets>
             <set>
                 <song name="Sunday Trane">
-                    <notes>the new Jazzy instrumental</notes>
+                    <notes>the new jazzy instrumental</notes>
                 </song>
                 <song name="The Slow Phaseout"/>
                 <song name="Walkin' With J."/>
@@ -18436,7 +18436,8 @@
         </venue>
         <sets>
             <set>
-                <song name="Sunday Trane">
+                <song name="Platon">
+                    <aliasFor>Sunday Trane</aliasFor>
                     <notes>Setlist: Platon - but on the recording Bent says after the song: "That last song was called 'Zorba'" </notes>
                 </song>
                 <song name="The Slow Phaseout"/>
@@ -18488,8 +18489,8 @@
         </venue>
         <sets>
             <set>
-                <song name="Sunday Trane">
-                    <notes>Setlist: Trane</notes>
+                <song name="Trane">
+                    <aliasFor>Sunday Trane</aliasFor>
                 </song>
                 <song name="My Best Friend"/>
                 <song name="Bedroom Eyes"/>
@@ -18603,8 +18604,9 @@
                 <song name="Now It's Time to Skate"/>
                 <song name="Bedroom Eyes"/>
                 <song name="Landslide"/>
-                <song name="Sunday Trane">
-                    <notes>Setlist: Swiss Jam announced as 'St. Frommage des Suisse' on stage or something similar</notes>
+                <song name="St. Frommage des Suisse">
+                    <aliasFor>Sunday Trane</aliasFor>
+                    <notes>Setlist: Swiss Jam - announced as 'St. Frommage des Suisse' on stage or something similar</notes>
                 </song>
                 <song name="All Is Loneliness">
                     <cover mbid="0b8dff0b-ce42-4cc6-afd1-1841f7781ed4" name="Moondog" sortName="Moondog" disambiguation="Louis Thomas Hardin, American composer, musician, poet &amp; inventor">
@@ -18662,8 +18664,8 @@
                 <set>
                 <song name="Now It's Time to Skate"/>
                 <song name="Blindfolded"/>
-                <song name="Sunday Trane">
-                    <notes>Setlist: Sérge Saturday</notes>
+                <song name="Sérge Saturday">
+                    <aliasFor>Sunday Trane</aliasFor>
                 </song>
                 <song name="For Free"/>
                 <song name="Neverland"/>
@@ -18703,8 +18705,8 @@
         </venue>
         <sets>
             <set>
-                <song name="Sunday Trane">
-                    <notes>Setlist: Belgia Boogie Baby</notes>
+                <song name="Belgia Boogie Baby">
+                    <aliasFor>Sunday Trane</aliasFor>
                 </song>
                 <song name="Landslide"/>
                 <song name="For Free"/>
@@ -18796,7 +18798,8 @@
         <sets>
             <set>
                 <song name="Taifun"/>
-                <song name="Sunday Trane">
+                <song name="T.N.R.A">
+                    <aliasFor>Sunday Trane</aliasFor>
                     <notes>Setlist: T.N.R.A.</notes>
                 </song>
                 <song name="Blindfolded"/>
@@ -18901,8 +18904,8 @@
                 <song name="Never Let You Out"/>
                 <song name="Neverland"/>
                 <song name="The Nerve Tattoo"/>
-                <song name="Sunday Trane">
-                    <notes>Setlist: Monday</notes>
+                <song name="Monday">
+                    <aliasFor>Sunday Trane</aliasFor>
                 </song>
                 <song name="Bedroom Eyes"/>
                 <song name="Blindfolded"/>
@@ -18949,8 +18952,8 @@
                 <song name="Trapdoor"/>
                 <song name="The Slow Phaseout"/>
                 <song name="Go To California"/>
-                <song name="Sunday Trane">
-                    <notes>Setlist: Saturday Nite Beaver</notes>
+                <song name="Saturday Nite Beaver">
+                    <aliasFor>Sunday Trane</aliasFor>
                 </song>
                 <song name="Landslide"/>
                 <song name="Watersound"/>
@@ -19002,8 +19005,8 @@
             </set>
             <set encore="1">
                 <song name="Pills, Powders &amp; Passionplays"/>
-                <song name="Sunday Trane">
-                    <notes>Setlist: A Friday chile</notes>
+                <song name="A Friday Chile">
+                    <aliasFor>Sunday Trane</aliasFor>
                 </song>
                 <song name="My Best Friend"/>
             </set>
@@ -19026,8 +19029,8 @@
         </venue>
         <sets>
             <set>
-                <song name="Sunday Trane">
-                    <notes>Setlist: Thursday Moore</notes>
+                <song name="Thursday Moore">
+                    <aliasFor>Sunday Trane</aliasFor>
                 </song>
                 <song name="Pills, Powders &amp; Passionplays"/>
                 <song name="Walkin' With J."/>
