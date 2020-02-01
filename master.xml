@@ -265,7 +265,7 @@
                 </song>
                 <song name="Psychotzar"/>
                 <song name="Bonny Lee"/>
-                <song name="Walking on the Water"/>
+                <song name="Walking on the Water" aliasFor="You Lied"/>
             </set>
             <set encore="1">
                 <song name="The Tower"/>
@@ -18558,8 +18558,9 @@
                 <song name="When You're Dead"/>
                 <song name="Bedroom Eyes"/>
                 <song name="Now It's Time to Skate"/>
-                <song name="Sunday Trane">
-                    <notes>Setlist: Inter Buran AC</notes>
+
+                <song name="Inter Buran AC">
+                    <aliasFor>Sunday Trane</aliasFor>
                 </song>
                 <song name="The Nerve Tattoo"/>
                 <song name="Hey Jane"/>
