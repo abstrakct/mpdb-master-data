@@ -18283,7 +18283,6 @@
         <sets>
             <set>
                 <song name="Sunday Trane">
-                    <notes>the new jazzy instrumental</notes>
                 </song>
                 <song name="The Slow Phaseout"/>
                 <song name="Walkin' With J."/>
@@ -18800,7 +18799,6 @@
                 <song name="Taifun"/>
                 <song name="T.N.R.A">
                     <aliasFor>Sunday Trane</aliasFor>
-                    <notes>Setlist: T.N.R.A.</notes>
                 </song>
                 <song name="Blindfolded"/>
                 <song name="Neverland"/>
@@ -19174,7 +19172,9 @@
         </venue>
         <sets>
             <set>
-                <song name="Sunday Trane"/>
+                <song name="Sunday Trane">
+                <notes>aka The New Jazzy Instrumental</notes>
+                </song>
                 <song name="Pills, Powders &amp; Passionplays"/>
                 <song name="B.S."/>
                 <song name="The Other Fool"/>
