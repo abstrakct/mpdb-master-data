@@ -3,7 +3,6 @@
   <status name="unknown"/>
   <status name="confirmed"/>
   <status name="correct"/>
-  <status name="probably correct"/>
   <status name="incomplete"/>
   <status name="uncertain"/>
   <status name="empty"/>
