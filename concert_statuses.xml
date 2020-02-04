@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <concertstatuses>
-<status name="confirmed"/>
-<status name="perfect"/>
-<status name="incorrect"/>
-<status name="incomplete"/>
-<status name="uncertain"/>
-<status name="unknown"/>
-<status name="empty"/>
+  <status name="unknown"/>
+  <status name="confirmed"/>
+  <status name="correct"/>
+  <status name="probably correct"/>
+  <status name="incomplete"/>
+  <status name="uncertain"/>
+  <status name="empty"/>
 </concertstatuses>
