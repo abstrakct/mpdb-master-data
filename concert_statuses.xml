@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<concertstatuses>
-  <status name="unconfirmed"/>
-  <status name="confirmed"/>
-  <status name="correct"/>
-  <status name="incomplete"/>
-  <status name="uncertain"/>
-  <status name="empty"/>
-</concertstatuses>
