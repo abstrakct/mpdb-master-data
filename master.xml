@@ -3138,11 +3138,10 @@
             <url>https://www.setlist.fm/setlists/motorpsycho-63d62abb.html</url>
         </artist>
         <venue id="13d29d71" name="New Stage of the Alexandrinskiy Theater">
-            <city id="6300971" name="St. Peterburg">
+            <city id="6300971" name="St. Petersburg">
                 <coords lat="59.800292" long="30.262503"/>
                 <country code="RU" name="Russia"/>
             </city>
-            <url>https://www.setlist.fm/venue/new-stage-of-the-alexandrinskiy-theater-st-peterburg-russia-13d29d71.html</url>
         </venue>
         <sets>
             <set>
@@ -3155,7 +3154,6 @@
                 <song name="Vortex Surfer"/>
             </set>
         </sets>
-        <url>https://www.setlist.fm/setlist/motorpsycho/2018/new-stage-of-the-alexandrinskiy-theater-st-peterburg-russia-3ed2df7.html</url>
     </setlist>
     <setlist status="uncertain" id="1bec19dc" versionId="1b70e1f8" eventDate="21-04-2018" lastUpdated="2018-04-23T17:47:21.000+0000">
         <artist mbid="5d0764c8-b14a-47fb-adc7-2ba9fb5f0d76" tmid="741542" name="Motorpsycho" sortName="Motorpsycho" disambiguation="Norwegian band">
