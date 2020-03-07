@@ -5092,7 +5092,7 @@
         <artist mbid="5d0764c8-b14a-47fb-adc7-2ba9fb5f0d76" tmid="741542" name="Motorpsycho" sortName="Motorpsycho" disambiguation="Norwegian band">
             <url>https://www.setlist.fm/setlists/motorpsycho-63d62abb.html</url>
         </artist>
-        <venue id="5bd76b54" name="Backstage Werk">
+        <venue id="5bd76b54" name="Backstage" notes="Backstage Werk">
             <city id="2867714" name="Munich" state="Bavaria" stateCode="02">
                 <coords lat="48.1374325498109" long="11.5754914283752"/>
                 <country code="DE" name="Germany"/>
@@ -6547,7 +6547,7 @@
         <artist mbid="5d0764c8-b14a-47fb-adc7-2ba9fb5f0d76" tmid="741542" name="Motorpsycho" sortName="Motorpsycho" disambiguation="Norwegian band">
             <url>https://www.setlist.fm/setlists/motorpsycho-63d62abb.html</url>
         </artist>
-        <venue id="43d723db" name="Bendiksbukta">
+        <venue id="43d723db" name="Bendiksbukta, Quartfestivalen">
             <city id="6942467" name="Kristiansand" state="Vest-Agder" stateCode="19">
                 <coords lat="58.1467938592621" long="7.99736022949219"/>
                 <country code="NO" name="Norway"/>
@@ -17618,7 +17618,7 @@
             <url>https://www.setlist.fm/setlists/motorpsycho-63d62abb.html</url>
         </artist>
         <venue id="13d62dd1" name="Vooruit">
-            <city id="2797656" name="Ghent" state="Flanders" stateCode="VLG">
+            <city id="2797656" name="Gent" state="Flanders" stateCode="VLG">
                 <coords lat="51.05" long="3.7166667"/>
                 <country code="BE" name="Belgium"/>
             </city>
@@ -32971,7 +32971,7 @@
             <url>https://www.setlist.fm/setlists/motorpsycho-63d62abb.html</url>
         </artist>
         <venue id="23d62c03" name="Democrazy">
-            <city id="2797656" name="Ghent" state="Flanders" stateCode="VLG">
+            <city id="2797656" name="Gent" state="Flanders" stateCode="VLG">
                 <coords lat="51.05" long="3.7166667"/>
                 <country code="BE" name="Belgium"/>
             </city>
