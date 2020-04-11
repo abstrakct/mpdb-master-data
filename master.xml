@@ -670,7 +670,7 @@
                 </song>
                 <song name="Psychotzar" segue="true"/>
                 <song name="Hogwash" segue="true"/>
-                <song name="Spin, Spin, Spin">
+                <song name="Spin, Spin, Spin" segue="true">
                     <cover mbid="44fd61e1-119c-479e-8301-8ac5c77148bf" name="Terry Callier" sortName="Callier, Terry" disambiguation="">
                         <url>https://www.setlist.fm/setlists/terry-callier-43d7ff9f.html</url>
                     </cover>
@@ -727,7 +727,7 @@
                     </cover>
                 </song>
                 <song name="Improvisation">
-                    <info>by Snah, Bent &amp; Thomas due to technical problems with Reine's pedalboard.</info>
+                    <notes>by Snah, Bent &amp; Thomas due to technical problems with Reine's pedalboard.</notes>
                 </song>
                 <song name="Granny Takes a Trip"/>
                 <song name="Psychotzar"/>
@@ -1349,7 +1349,7 @@
                 <song name="Feel"/>
                 <song name="Lux Aeterna"/>
                 <song name="Psychotzar">
-                    <info>Dedicated to Trump and Berlusconi</info>
+                    <notes>Dedicated to Trump and Berlusconi</notes>
                 </song>
                 <song name="Mountain"/>
                 <song name="Walking on the Water"/>
@@ -1617,7 +1617,7 @@
                     <cover mbid="ca5db97b-ba17-4e85-a876-46065e2052b3" tmid="842030" name="Spirit" sortName="Spirit" disambiguation="psychedelic rock">
                         <url>https://www.setlist.fm/setlists/spirit-53d653c5.html</url>
                     </cover>
-                    <info>acoustic</info>
+                    <notes>acoustic</notes>
                 </song>
                 <song name="The Crucible"/>
                 <song name="Greener"/>
@@ -1742,7 +1742,7 @@
                 <song name="The Other Fool"/>
                 <song name="In Every Dream Home"/>
                 <song name="Stardust">
-                    <info>Acoustic</info>
+                    <notes>Acoustic</notes>
                 </song>
                 <song name="The Crucible"/>
                 <song name="Lacuna/Sunrise">
@@ -1754,7 +1754,7 @@
             </set>
             <set encore="1">
                 <song name="Neverland">
-                    <info>Acoustic</info>
+                    <notes>Acoustic</notes>
                 </song>
                 <song name="The Tower"/>
                 <song name="Hell, Part 7: Victim of Rock"/>
@@ -1801,11 +1801,11 @@
                     <info>Tour debut</info>
                 </song>
                 <song name="The Maypole">
-                    <info>Tour debut. Malibu section only. First time performed since 2018 and third time ever.</info>
+                    <info>Tour debut. Malibu section only??? First time performed since 2018 and third time ever.</info>
                 </song>
             </set>
         </sets>
-        <info>In-store acoustic concert</info>
+        <notes>In-store acoustic concert</notes>
         <url>https://www.setlist.fm/setlist/motorpsycho/2019/flashback-records-bethnal-green-road-london-england-4b9017ca.html</url>
     </setlist>
     <setlist status="unconfirmed" id="4b9033a2" versionId="31c253f" eventDate="17-05-2019" lastUpdated="2019-05-20T16:41:35.000+0000">
@@ -1882,7 +1882,7 @@
                 <song name="Lux Aeterna"/>
                 <song name="Psychotzar"/>
                 <song name="577">
-                    <info>spelled '578' on the setlist</info>
+                    <notes>spelled '578' on the setlist</notes>
                 </song>
                 <song name="Walking on the Water"/>
                 <song name="Hogwash"/>
@@ -2363,7 +2363,7 @@
                     <info>Intro Outer Space jam</info>
                 </song>
                 <song name="The Crucible">
-                    <info>First time performed as a full song.</info>
+                    <notes>First time performed as a full song.</notes>
                 </song>
                 <song name="A Pacific Sonata"/>
                 <song name="Überwagner or a Billion Bubbles in My Mind">
@@ -2411,23 +2411,20 @@
                         <url>https://www.setlist.fm/setlists/love-33d6ac91.html</url>
                     </cover>
                 </song>
-                <song name="The Crucible">
-                    <info>Live debut. Only first few minutes -&gt;</info>
+                <song name="The Crucible" segue="true">
+                    <notes>Only the first few minutes.</notes>
                 </song>
                 <song name="In Every Dream Home"/>
                 <song name="The Tower"/>
                 <song name="Hell, Part 7: Victim of Rock"/>
-                <song name="Walking on the Water">
-                    <info>-&gt;</info>
+                <song name="Walking on the Water" segue="true">
                 </song>
-                <song name="Hogwash">
-                    <info>-&gt;</info>
+                <song name="Hogwash" segue="true">
                 </song>
-                <song name="Tristano">
+                <song name="Tristano" segue="true">
                     <cover mbid="e8750d20-ffa4-4d7a-9b18-192b127c010a" name="Motorpsycho + Jaga Jazzist Horns" sortName="Motorpsycho + Jaga Jazzist">
                         <url>https://www.setlist.fm/setlists/motorpsycho-jaga-jazzist-horns-1bd6dd00.html</url>
                     </cover>
-                    <info>-&gt;</info>
                 </song>
                 <song name="Black to Comm">
                     <cover mbid="08b736bb-1c82-40b4-8b0b-49e2182a067a" name="MC5" sortName="MC5" disambiguation="">
@@ -2538,7 +2535,7 @@
                 <song name="The Tower"/>
             </set>
         </sets>
-        <info>webcast by Nasjonal Jazzscene</info>
+        <notes>webcast by Nasjonal Jazzscene</notes>
         <url>https://www.setlist.fm/setlist/motorpsycho/2018/victoria-oslo-norway-1b9775a0.html</url>
     </setlist>
     <setlist status="unconfirmed" id="5397fb49" versionId="136f4d05" eventDate="17-11-2018" lastUpdated="2018-11-17T22:01:44.000+0000">
@@ -2958,8 +2955,7 @@
                 <song name="Ship of Fools"/>
                 <song name="Feel"/>
                 <song name="A Pacific Sonata"/>
-                <song name="Heartattack Mac">
-                    <info>-&gt;</info>
+                <song name="Heartattack Mac" segue="true">
                 </song>
                 <song name="Back to Source"/>
                 <song name="Starhammer"/>
