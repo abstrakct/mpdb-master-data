@@ -10321,8 +10321,8 @@
                 </song>
                 <song name="Upstairs-Downstairs">
                 </song>
-                </set>
-                <set name="Set 2">
+            </set>
+            <set name="Set 2">
                 <song name="Manmower"/>
                 <song name="Kill Devil Hills"/>
                 <song name="The Alchemyst"/>
@@ -10348,7 +10348,7 @@
             <url>https://www.setlist.fm/venue/byscenen-trondheim-norway-43d66fcb.html</url>
         </venue>
         <sets>
-            <set>
+            <set name="Set 1">
                 <song name="Starhammer" segue="true"/>
                 <song name="All Is Loneliness">
                     <cover mbid="0b8dff0b-ce42-4cc6-afd1-1841f7781ed4" name="Moondog" sortName="Moondog" disambiguation="Louis Thomas Hardin, American composer, musician, poet &amp; inventor">
@@ -10358,23 +10358,20 @@
                 <song name="Neanderthal">
                     <songnotes>Early version of Through the Veil</songnotes>
                 </song>
-                </set>
-                <set name="Acoustic">
-                <song name="Fools Gold">
-                </song>
-                <song name="Blueberry Daydream">
-                </song>
-                <song name="Feel">
-                </song>
-                </set>
-                <set>
+            </set>
+            <set name="Acoustic">
+                <song name="Fools Gold"/>
+                <song name="Blueberry Daydream"/>
+                <song name="Feel"/>
+            </set>
+            <set name="Set 2">
                 <song name="Close Your Eyes"/>
                 <song name="Whole Lotta Diana" segue="true"/>
                 <song name="Mountain" segue="true"/>
                 <song name="Walking on the Water" segue="true"/>
                 <song name="Nothing to Say"/>
             </set>
-            <set encore="1">
+            L<set encore="1">
                 <song name="Gullible's Travails"/>
             </set>
         </sets>
@@ -10435,23 +10432,19 @@
             <url>https://www.setlist.fm/venue/landmark-bergen-norway-23d798c7.html</url>
         </venue>
         <sets>
-            <set>
+            <set name="Set 1">
                 <song name="Close Your Eyes"/>
                 <song name="Kill Devil Hills"/>
                 <song name="Hallucifuge"/>
                 <song name="The Alchemyst"/>
             </set>
             <set name="Acoustic">
-                <song name="Fools Gold">
-                </song>
-                <song name="Blueberry Daydream">
-                </song>
-                <song name="Upstairs-Downstairs">
-                </song>
-                <song name="Feel">
-                </song>
-                </set>
-                <set>
+                <song name="Fools Gold"/>
+                <song name="Blueberry Daydream"/>
+                <song name="Upstairs-Downstairs"/>
+                <song name="Feel"/>
+            </set>
+            <set name="Set 2">
                 <song name="All Is Loneliness">
                     <cover mbid="0b8dff0b-ce42-4cc6-afd1-1841f7781ed4" name="Moondog" sortName="Moondog" disambiguation="Louis Thomas Hardin, American composer, musician, poet &amp; inventor">
                         <url>https://www.setlist.fm/setlists/moondog-6bd7ae36.html</url>
