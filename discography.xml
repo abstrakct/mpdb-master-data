@@ -1,0 +1,142 @@
+<songs>
+    <song>
+        <title>Waiting for the One</title>
+        <credits>
+            <music>Bent Sæther</music>
+            <lyrics>Bent Sæther</lyrics>
+        </credits>
+        <releases>
+            <release>Demon Box</release>
+        </releases>
+        <lyrics>
+The wind blows the hair from your face
+while you’re waiting by the porch
+on this July sunny day
+I see from the look in your eyes that you’re worried:
+will he come today?
+
+You won’t be here tomorrow morning,
+but you said that yesterday as well
+I bet I’ll see you here all summer:
+waiting for the one who went away
+
+The blueberry-dress is the one you’ll be wearing,
+cos that’s the one that he said he liked
+and maybe tomorrow he’ll be returning,
+and all will be alright
+
+you won’t be here...............etc
+        </lyrics>
+        <tuning>E A D G B E</tuning>
+        <personell>
+                 Geb-acc g
+                 Snah-mandolin,flutes,violin,voc
+                 Bent-acc g,lead voc
+                 L.Lien-voc
+        </personell>
+        <notes>
+            The One Who Went Away is an electric version of this song.
+        </notes>
+    </song>
+
+    <song>
+        <title>Nothing to Say</title>
+        <releases>
+            <release>Demon Box</release>
+        </releases>
+    </song>
+
+    <song>
+        <title>Feedtime</title>
+        <releases>
+            <release>Demon Box</release>
+        </releases>
+    </song>
+
+    <song>
+        <title>Sunchild</title>
+        <releases>
+            <release>Demon Box</release>
+        </releases>
+    </song>
+
+    <song>
+        <title>Tuesday Morning</title>
+        <releases>
+            <release>Demon Box</release>
+        </releases>
+    </song>
+
+    <song>
+        <title>All Is Loneliness</title>
+        <releases>
+            <release>Demon Box</release>
+        </releases>
+    </song>
+
+    <song>
+        <title>Come On In</title>
+        <releases>
+            <release>Demon Box</release>
+        </releases>
+    </song>
+
+    <song>
+        <title>Step Inside Again</title>
+        <releases>
+            <release>Demon Box</release>
+        </releases>
+    </song>
+
+    <song>
+        <title>Demon Box</title>
+        <releases>
+            <release>Demon Box</release>
+        </releases>
+    </song>
+
+    <song>
+        <title>Babylon</title>
+        <releases>
+            <release>Demon Box</release>
+        </releases>
+    </song>
+
+    <song>
+        <title>Junior</title>
+        <releases>
+            <release>Demon Box</release>
+        </releases>
+    </song>
+
+    <song>
+        <title>Plan #1</title>
+        <releases>
+            <release>Demon Box</release>
+        </releases>
+    </song>
+
+    <song>
+        <title>Sheer Profoundity</title>
+        <releases>
+            <release>Demon Box</release>
+        </releases>
+    </song>
+
+    <song>
+        <title>The One Who Went Away</title>
+        <releases>
+            <release>Demon Box</release>
+        </releases>
+    </song>
+
+</songs>
+
+<releases>
+    <release>
+        <title>Demon Box</title>
+        <type>Album</type>
+        <format>CD</format>
+        <releaseDate>1993-01-01</releaseDate>
+    </release>
+</releases>
