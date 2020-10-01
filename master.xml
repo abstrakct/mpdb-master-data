@@ -1,5 +1,59 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <setlists>
+    <setlist status="confirmed" eventDate="30-09-2020" lastUpdated="2019-12-06T16:41:41.000+0000">
+        <source>Audience report</source>
+        <artist mbid="5d0764c8-b14a-47fb-adc7-2ba9fb5f0d76" name="Motorpsycho" sortName="Motorpsycho" disambiguation="Norwegian band">
+            <url>https://www.setlist.fm/setlists/motorpsycho-63d62abb.html</url>
+        </artist>
+        <venue id="63d62aa7" name="Club Cørebrøl">
+            <city name="Frøya">
+                <country name="Norway"/>
+            </city>
+        </venue>
+        <tour name="The All Is One"/>
+        <sets>
+            <set>
+                <song name="The All Is One"/>
+                <song name="Wishing Well"/>
+                <song name="The Same Old Rock (One Must Imagine Sisyphus Happy)"/>
+                <song name="The Magic &amp; The Wonder (A Love Theme)"/>
+                <song name="The Magpie"/>
+                <song name="Mad Sun" notes="Full version (?)"/>
+                <song name="Ship of Fools"/>
+                <song name="The Dowser"/>
+                <song name="Barleycorn (Let It Come/Let It Be)" notes="Extended"/>
+                <song name="The Alchemyst"/>
+                <song name="Spin, Spin, Spin" segue="true">
+                    <cover mbid="44fd61e1-119c-479e-8301-8ac5c77148bf" name="Terry Callier" sortName="Callier, Terry" disambiguation="">
+                        <url>https://www.setlist.fm/setlists/terry-callier-43d7ff9f.html</url>
+                    </cover>
+                </song>
+                <song name="Hogwash" segue="true"/>
+                <song name="Spin, Spin, Spin">
+                    <cover mbid="44fd61e1-119c-479e-8301-8ac5c77148bf" name="Terry Callier" sortName="Callier, Terry" disambiguation="">
+                        <url>https://www.setlist.fm/setlists/terry-callier-43d7ff9f.html</url>
+                    </cover>
+                </song>
+                <song name="For Mad Men Only">
+                    <cover mbid="7210493e-b497-4d4b-bfbc-561bec4ed0f4" name="May Blitz" sortName="May Blitz" disambiguation="">
+                        <url>https://www.setlist.fm/setlists/may-blitz-33d63485.html</url>
+                    </cover>
+                </song>
+                <song name="My Pal">
+                    <cover name="God"/>
+                </song>
+                <song name="Sail On"/>
+                <song name="N.O.X."/>
+            </set>
+            <set encore="1">
+                <song name="The 29th Bulletin"/>
+                <song name="S.T.G."/>
+            </set>
+            <set encore="2">
+                <song name="The Golden Core"/>
+            </set>
+        </sets>
+    </setlist>
     <setlist status="confirmed" id="239a5cc3" versionId="330b7859" eventDate="07-12-2019" lastUpdated="2019-12-06T16:41:41.000+0000">
         <source>Audience report</source>
         <artist mbid="5d0764c8-b14a-47fb-adc7-2ba9fb5f0d76" name="Motorpsycho" sortName="Motorpsycho" disambiguation="Norwegian band">
