@@ -1,5 +1,98 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <setlists>
+    <setlist status="confirmed" eventDate="24-10-2020">
+        <source>Audience report</source>
+        <artist mbid="5d0764c8-b14a-47fb-adc7-2ba9fb5f0d76" name="Motorpsycho" sortName="Motorpsycho" disambiguation="Norwegian band">
+            <url>https://www.setlist.fm/setlists/motorpsycho-63d62abb.html</url>
+        </artist>
+        <venue id="63d62aa7" name="Verkstedhallen">
+            <city name="Trondheim">
+                <country name="Norway"/>
+            </city>
+        </venue>
+        <tour name="The All Is One"/>
+        <sets>
+            <set>
+                <song name="The Crucible"/>
+                <song name="The All Is One"/>
+                <song name="The Magic &amp; The Wonder (A Love Theme)"/>
+                <song name="Psychotzar"/>
+                <song name="W.B.A.T."/>
+                <song name="The Same Old Rock (One Must Imagine Sisyphus Happy)"/>
+                <song name="The Magpie"/>
+                <song name="Bonny Lee"/>
+                <song name="No Evil" segue="true"/>
+                <song name="Hey Jane"/>
+                <song name="N.O.X."/>
+            </set>
+            <set encore="1">
+                <song name="Manmower" notes="20-25 minutes long. Bent sung some unidentified lines somewhere in the jam."/>
+                <song name="Like Chrome"/>
+            </set>
+        </sets>
+        <url>https://www.setlist.fm/setlist/motorpsycho/2019/driv-tromso-norway-239a5cc3.html</url>
+    </setlist>
+    <setlist status="confirmed" eventDate="23-10-2020">
+        <source>Audience report</source>
+        <artist mbid="5d0764c8-b14a-47fb-adc7-2ba9fb5f0d76" name="Motorpsycho" sortName="Motorpsycho" disambiguation="Norwegian band">
+            <url>https://www.setlist.fm/setlists/motorpsycho-63d62abb.html</url>
+        </artist>
+        <venue id="63d62aa7" name="Verkstedhallen">
+            <city name="Trondheim">
+                <country name="Norway"/>
+            </city>
+        </venue>
+        <tour name="The All Is One"/>
+        <sets>
+            <set>
+                <song name="The Crucible"/>
+                <song name="The All Is One"/>
+                <song name="Mr. Victim"/>
+                <song name="Barleycorn (Let It Come/Let It Be)"/>
+                <song name="Starhammer"/>
+                <song name="The Same Old Rock (One Must Imagine Sisyphus Happy)"/>
+                <song name="The Magpie"/>
+                <song name="In Every Dream Home"/>
+                <song name="Upstairs-Downstairs"/>
+                <song name="N.O.X."/>
+            </set>
+            <set encore="1">
+                <song name="Pills, Powders &amp; Passionplays"/>
+                <song name="Like Chrome"/>
+            </set>
+        </sets>
+        <url>https://www.setlist.fm/setlist/motorpsycho/2019/driv-tromso-norway-239a5cc3.html</url>
+    </setlist>
+    <setlist status="confirmed" eventDate="22-10-2020">
+        <source>Audience report + recording</source>
+        <artist mbid="5d0764c8-b14a-47fb-adc7-2ba9fb5f0d76" name="Motorpsycho" sortName="Motorpsycho" disambiguation="Norwegian band">
+            <url>https://www.setlist.fm/setlists/motorpsycho-63d62abb.html</url>
+        </artist>
+        <venue id="63d62aa7" name="Verkstedhallen">
+            <city name="Trondheim">
+                <country name="Norway"/>
+            </city>
+        </venue>
+        <tour name="The All Is One"/>
+        <sets>
+            <set>
+                <song name="The Crucible"/>
+                <song name="Hell, Part 1-3"/>
+                <song name="The All Is One" segue="true"/>
+                <song name="The Same Old Rock (One Must Imagine Sisyphus Happy)"/>
+                <song name="Whole Lotta Diana"/>
+                <song name="Bartok of the Universe"/>
+                <song name="The Magpie"/>
+                <song name="X-3 (Knuckleheads in Space)"/>
+                <song name="N.O.X."/>
+            </set>
+            <set encore="1">
+                <song name="Greener"/>
+                <song name="Like Chrome"/>
+            </set>
+        </sets>
+        <url>https://www.setlist.fm/setlist/motorpsycho/2019/driv-tromso-norway-239a5cc3.html</url>
+    </setlist>
     <setlist status="confirmed" id="239a5cc3" versionId="330b7859" eventDate="07-12-2019" lastUpdated="2019-12-06T16:41:41.000+0000">
         <source>Audience report</source>
         <artist mbid="5d0764c8-b14a-47fb-adc7-2ba9fb5f0d76" name="Motorpsycho" sortName="Motorpsycho" disambiguation="Norwegian band">
