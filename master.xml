@@ -1166,6 +1166,7 @@
             <set name="">
                 <song name="The World">
                     <notes>Working title</notes>
+                    <aliasFor>N.O.X.</aliasFor>
                 </song>
                 <song name="The Crucible" />
                 <song name="The Tower">
