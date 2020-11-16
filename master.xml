@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <setlists>
+    <setlist status="confirmed" eventDate="14-11-2020">
+        <source>Official instagram</source>
+        <artist mbid="5d0764c8-b14a-47fb-adc7-2ba9fb5f0d76" name="Motorpsycho" sortName="Motorpsycho" disambiguation="Norwegian band">
+        </artist>
+        <venue id="63d62aa7" name="Hamar kulturhus">
+            <city name="Hamar">
+                <country name="Norway"/>
+            </city>
+        </venue>
+        <tour name="The All Is One"/>
+        <sets>
+            <set>
+                <song name="Ship of Fools"/>
+                <song name="The All Is One"/>
+                <song name="The Crucible"/>
+                <song name="The Tower"/>
+                <song name="N.O.X."/>
+            </set>
+            <set encore="1">
+                <song name="Like Chrome"/>
+            </set>
+        </sets>
+        <notes>Trio gig, no Reine Fiske due to covid-19 regulations</notes>
+    </setlist>
     <setlist status="confirmed" eventDate="24-10-2020">
         <source>Audience report</source>
         <artist mbid="5d0764c8-b14a-47fb-adc7-2ba9fb5f0d76" name="Motorpsycho" sortName="Motorpsycho" disambiguation="Norwegian band">
@@ -30,7 +54,6 @@
                 <song name="Like Chrome"/>
             </set>
         </sets>
-        <url>https://www.setlist.fm/setlist/motorpsycho/2019/driv-tromso-norway-239a5cc3.html</url>
     </setlist>
     <setlist status="confirmed" eventDate="23-10-2020">
         <source>Audience report</source>
@@ -61,7 +84,6 @@
                 <song name="Like Chrome"/>
             </set>
         </sets>
-        <url>https://www.setlist.fm/setlist/motorpsycho/2019/driv-tromso-norway-239a5cc3.html</url>
     </setlist>
     <setlist status="confirmed" eventDate="22-10-2020">
         <source>Audience report + recording</source>
@@ -91,7 +113,6 @@
                 <song name="Like Chrome"/>
             </set>
         </sets>
-        <url>https://www.setlist.fm/setlist/motorpsycho/2019/driv-tromso-norway-239a5cc3.html</url>
     </setlist>
     <setlist status="confirmed" id="239a5cc3" versionId="330b7859" eventDate="07-12-2019" lastUpdated="2019-12-06T16:41:41.000+0000">
         <source>Audience report</source>
@@ -134,7 +155,6 @@
                 <song name="Fools Gold"/>
             </set>
         </sets>
-        <url>https://www.setlist.fm/setlist/motorpsycho/2019/driv-tromso-norway-239a5cc3.html</url>
     </setlist>
     <setlist status="confirmed" id="239a5cc3" versionId="330b7859" eventDate="05-12-2019" lastUpdated="2019-12-06T16:41:41.000+0000">
         <source>Official Instagram</source>
@@ -176,7 +196,6 @@
                 <song name="Fools Gold"/>
             </set>
         </sets>
-        <url>https://www.setlist.fm/setlist/motorpsycho/2019/driv-tromso-norway-239a5cc3.html</url>
     </setlist>
     <setlist status="confirmed" id="739dfe9d" versionId="230f806b" eventDate="19-10-2019" lastUpdated="2019-10-20T10:28:03.000+0000">
         <source>Forum post</source>
