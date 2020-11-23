@@ -1,5 +1,93 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <setlists>
+    <setlist status="confirmed" eventDate="21-11-2020" disambiguation="Late show">
+        <source>Audience report</source>
+        <artist mbid="5d0764c8-b14a-47fb-adc7-2ba9fb5f0d76" name="Motorpsycho" sortName="Motorpsycho" disambiguation="Norwegian band">
+        </artist>
+        <venue id="63d62aa7" name="Rockeklubben i Porsgrunn">
+            <city name="Porsgrunn">
+                <country name="Norway"/>
+            </city>
+        </venue>
+        <tour name="The All Is One"/>
+        <sets>
+            <set>
+                <song name="N.O.X."/>
+                <song name="Pills, Powders &amp; Passionplays"/>
+                <song name="The All Is One"/>
+                <song name="Psychotzar"/>
+                <song name="Bartok of the Universe"/>
+                <song name="Close Your Eyes"/>
+                <song name="Hell, Part 1-3"/>
+                <song name="Whole Lotta Diana"/>
+                <song name="Starhammer"/>
+                <song name="You Lied"/>
+            </set>
+            <set encore="1">
+                <song name="Like Chrome"/>
+            </set>
+            <set encore="2">
+                <song name="Greener"/>
+            </set>
+        </sets>
+        <notes>Trio gig, no Reine Fiske due to covid-19 regulations. Around 40 people in the audience, probably. Second encore was not on setlist, but someone in the audience shouted "Greener"!</notes>
+    </setlist>
+    <setlist status="confirmed" eventDate="20-11-2020">
+        <source>Audience report and picture of setlist</source>
+        <artist mbid="5d0764c8-b14a-47fb-adc7-2ba9fb5f0d76" name="Motorpsycho" sortName="Motorpsycho" disambiguation="Norwegian band">
+        </artist>
+        <venue id="63d62aa7" name="Rockeklubben i Porsgrunn">
+            <city name="Porsgrunn">
+                <country name="Norway"/>
+            </city>
+        </venue>
+        <tour name="The All Is One"/>
+        <sets>
+            <set>
+                <song name="The Crucible"/>
+                <song name="The All Is One"/>
+                <song name="The Magpie"/>
+                <song name="Whole Lotta Diana"/>
+                <song name="Upstairs-Downstairs"/>
+                <song name="Ship of Fools"/>
+                <song name="The Tower"/>
+                <song name="Close Your Eyes"/>
+                <song name="N.O.X."/>
+            </set>
+            <set encore="1">
+                <song name="Like Chrome"/>
+            </set>
+        </sets>
+        <notes>Trio gig, no Reine Fiske due to covid-19 regulations. Around 40 people in the audience, probably. Early show, no age limit.</notes>
+    </setlist>
+    <setlist status="confirmed" eventDate="19-11-2020">
+        <source>Audience report</source>
+        <artist mbid="5d0764c8-b14a-47fb-adc7-2ba9fb5f0d76" name="Motorpsycho" sortName="Motorpsycho" disambiguation="Norwegian band">
+        </artist>
+        <venue id="63d62aa7" name="Rockeklubben i Porsgrunn">
+            <city name="Porsgrunn">
+                <country name="Norway"/>
+            </city>
+        </venue>
+        <tour name="The All Is One"/>
+        <sets>
+            <set>
+                <song name="Ship of Fools"/>
+                <song name="Psychotzar"/>
+                <song name="The Crucible"/>
+                <song name="In Every Dream Home"/>
+                <song name="Upstairs-Downstairs"/>
+                <song name="The All Is One"/>
+                <song name="The Magpie"/>
+                <song name="X-3 (Knuckleheads in Space)"/>
+                <song name="N.O.X."/>
+            </set>
+            <set encore="1">
+                <song name="Like Chrome"/>
+            </set>
+        </sets>
+        <notes>Trio gig, no Reine Fiske due to covid-19 regulations. 40 people in the audience. Early in N.O.X. the hi-hat stopped working, and the band jammed while a technician fixed it.</notes>
+    </setlist>
     <setlist status="confirmed" eventDate="14-11-2020">
         <source>Official instagram</source>
         <artist mbid="5d0764c8-b14a-47fb-adc7-2ba9fb5f0d76" name="Motorpsycho" sortName="Motorpsycho" disambiguation="Norwegian band">
