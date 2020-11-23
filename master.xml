@@ -32,6 +32,24 @@
         </sets>
         <notes>Trio gig, no Reine Fiske due to covid-19 regulations. Around 40 people in the audience, probably. Second encore was not on setlist, but someone in the audience shouted "Greener"!</notes>
     </setlist>
+    <setlist status="empty" eventDate="21-11-2020" disambiguation="Early show">
+        <source>None</source>
+        <artist mbid="5d0764c8-b14a-47fb-adc7-2ba9fb5f0d76" name="Motorpsycho" sortName="Motorpsycho" disambiguation="Norwegian band">
+        </artist>
+        <venue id="63d62aa7" name="Rockeklubben i Porsgrunn">
+            <city name="Porsgrunn">
+                <country name="Norway"/>
+            </city>
+        </venue>
+        <tour name="The All Is One"/>
+        <sets>
+            <set>
+            </set>
+            <set encore="1">
+            </set>
+        </sets>
+        <notes>Trio gig, no Reine Fiske due to covid-19 regulations. Around 40 people in the audience, probably. Unknown setlist.</notes>
+    </setlist>
     <setlist status="confirmed" eventDate="20-11-2020">
         <source>Audience report and picture of setlist</source>
         <artist mbid="5d0764c8-b14a-47fb-adc7-2ba9fb5f0d76" name="Motorpsycho" sortName="Motorpsycho" disambiguation="Norwegian band">
