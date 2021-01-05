@@ -1,5 +1,38 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <setlists>
+    <setlist status="confirmed" eventDate="19-12-2020" disambiguation="Early show">
+        <source>Official instagram</source>
+        <artist mbid="5d0764c8-b14a-47fb-adc7-2ba9fb5f0d76" name="Motorpsycho" sortName="Motorpsycho" disambiguation="Norwegian band">
+        </artist>
+        <venue name="Byscenen">
+            <city name="Trondheim">
+                <country name="Norway"/>
+            </city>
+        </venue>
+        <tour name="The All Is One"/>
+        <sets>
+            <set>
+                <song name="Like Chrome"/>
+                <song name="Sinful, Wind-Borne"/>
+                <song name="Like Always"/>
+                <song name="The United Debased"/>
+                <song name="The Crucible"/>
+                <song name="The All Is One"/>
+                <song name="Psychotzar"/>
+                <song name="Close Your Eyes" segue="true"/>
+                <song name="N.O.X."/>
+            </set>
+            <set encore="1">
+                <song name="Karl-Bertil Jonssons Julafton">
+                    <cover name="Gunnar Svensson"/>
+                </song>
+                <song name="X-mastime Is Here!">
+                    <notes>Morten 'Lolly Lux' Fagervik on vocals</notes>
+                </song>
+            </set>
+        </sets>
+        <notes>Trio gig. Max 50 people in the audience, due to covid-19 regulations.</notes>
+    </setlist>
     <setlist status="confirmed" eventDate="19-12-2020" disambiguation="Late show">
         <source>Official instagram</source>
         <artist mbid="5d0764c8-b14a-47fb-adc7-2ba9fb5f0d76" name="Motorpsycho" sortName="Motorpsycho" disambiguation="Norwegian band">
@@ -27,12 +60,14 @@
                 <song name="Karl-Bertil Jonssons Julafton">
                     <cover name="Gunnar Svensson"/>
                 </song>
-                <song name="X-mastime Is Here!" notes="Morten 'Lolly Lux' Fagervik on vocals"/>
+                <song name="X-mastime Is Here!">
+                    <notes>Morten 'Lolly Lux' Fagervik on vocals</notes>
+                </song>
             </set>
         </sets>
         <notes>Trio gig. Max 50 people in the audience, due to covid-19 regulations.</notes>
     </setlist>
-    <setlist status="confirmed" eventDate="19-12-2020" disambiguation="Early show">
+    <setlist status="confirmed" eventDate="18-12-2020" disambiguation="Early show">
         <source>Official instagram</source>
         <artist mbid="5d0764c8-b14a-47fb-adc7-2ba9fb5f0d76" name="Motorpsycho" sortName="Motorpsycho" disambiguation="Norwegian band">
         </artist>
@@ -44,21 +79,22 @@
         <tour name="The All Is One"/>
         <sets>
             <set>
-                <song name="Like Chrome"/>
-                <song name="Sinful, Wind-Borne"/>
-                <song name="Like Always"/>
-                <song name="The United Debased"/>
-                <song name="The Crucible"/>
-                <song name="The All Is One"/>
-                <song name="Psychotzar"/>
                 <song name="Close Your Eyes" segue="true"/>
                 <song name="N.O.X."/>
-            </set>
-            <set encore="1">
+                <song name="Upstairs-Downstairs"/>
+                <song name="The All Is One"/>
+                <song name="The Magpie"/>
+                <song name="The Crucible"/>
+                <song name="The Tower"/>
                 <song name="Karl-Bertil Jonssons Julafton">
                     <cover name="Gunnar Svensson"/>
                 </song>
-                <song name="X-mastime Is Here!" notes="Morten 'Lolly Lux' Fagervik on vocals"/>
+                <song name="Like Chrome"/>
+            </set>
+            <set encore="1">
+                <song name="X-mastime Is Here!">
+                    <notes>Morten 'Lolly Lux' Fagervik on vocals</notes>
+                </song>
             </set>
         </sets>
         <notes>Trio gig. Max 50 people in the audience, due to covid-19 regulations.</notes>
@@ -89,42 +125,37 @@
                 <song name="Karl-Bertil Jonssons Julafton">
                     <cover name="Gunnar Svensson"/>
                 </song>
-                <song name="X-mastime Is Here!" notes="Morten 'Lolly Lux' Fagervik on vocals"/>
+                <song name="X-mastime Is Here!">
+                    <notes>Morten 'Lolly Lux' Fagervik on vocals</notes>
+                </song>
             </set>
         </sets>
         <notes>Trio gig. Max 50 people in the audience, due to covid-19 regulations.</notes>
     </setlist>
-    <setlist status="confirmed" eventDate="18-12-2020" disambiguation="Early show">
-        <source>Official instagram</source>
+
+    <setlist status="confirmed" eventDate="21-11-2020" disambiguation="Early show">
+        <source>Audience report</source>
         <artist mbid="5d0764c8-b14a-47fb-adc7-2ba9fb5f0d76" name="Motorpsycho" sortName="Motorpsycho" disambiguation="Norwegian band">
         </artist>
-        <venue name="Byscenen">
-            <city name="Trondheim">
+        <venue id="63d62aa7" name="Rockeklubben i Porsgrunn">
+            <city name="Porsgrunn">
                 <country name="Norway"/>
             </city>
         </venue>
         <tour name="The All Is One"/>
         <sets>
             <set>
-                <song name="Close Your Eyes" segue="true"/>
-                <song name="N.O.X."/>
-                <song name="Upstairs-Downstairs"/>
-                <song name="The All Is One"/>
-                <song name="The Magpie"/>
+                <song name="Like Chrome"/>
+                <song name="Hey Jane"/>
+                <song name="Mr. Victim"/>
+                <song name="Mountain"/>
+                <song name="Close Your Eyes"/>
                 <song name="The Crucible"/>
                 <song name="The Tower"/>
-                <song name="Karl-Bertil Jonssons Julafton">
-                    <cover name="Gunnar Svensson"/>
-                </song>
-                <song name="Like Chrome"/>
-            </set>
-            <set encore="1">
-                <song name="X-mastime Is Here!" notes="Morten 'Lolly Lux' Fagervik on vocals"/>
             </set>
         </sets>
-        <notes>Trio gig. Max 50 people in the audience, due to covid-19 regulations.</notes>
+        <notes>Early show, no age limit. Trio gig, no Reine Fiske due to covid-19 regulations. Around 40 people in the audience, probably.</notes>
     </setlist>
-
     <setlist status="confirmed" eventDate="21-11-2020" disambiguation="Late show">
         <source>Audience report</source>
         <artist mbid="5d0764c8-b14a-47fb-adc7-2ba9fb5f0d76" name="Motorpsycho" sortName="Motorpsycho" disambiguation="Norwegian band">
@@ -156,29 +187,6 @@
             </set>
         </sets>
         <notes>Trio gig, no Reine Fiske due to covid-19 regulations. Around 40 people in the audience, probably. Second encore was not on setlist, but someone in the audience shouted "Greener"!</notes>
-    </setlist>
-    <setlist status="confirmed" eventDate="21-11-2020" disambiguation="Early show">
-        <source>Audience report</source>
-        <artist mbid="5d0764c8-b14a-47fb-adc7-2ba9fb5f0d76" name="Motorpsycho" sortName="Motorpsycho" disambiguation="Norwegian band">
-        </artist>
-        <venue id="63d62aa7" name="Rockeklubben i Porsgrunn">
-            <city name="Porsgrunn">
-                <country name="Norway"/>
-            </city>
-        </venue>
-        <tour name="The All Is One"/>
-        <sets>
-            <set>
-                <song name="Like Chrome"/>
-                <song name="Hey Jane"/>
-                <song name="Mr. Victim"/>
-                <song name="Mountain"/>
-                <song name="Close Your Eyes"/>
-                <song name="The Crucible"/>
-                <song name="The Tower"/>
-            </set>
-        </sets>
-        <notes>Early show, no age limit. Trio gig, no Reine Fiske due to covid-19 regulations. Around 40 people in the audience, probably.</notes>
     </setlist>
     <setlist status="confirmed" eventDate="20-11-2020">
         <source>Audience report and picture of setlist</source>
