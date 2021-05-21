@@ -23,13 +23,16 @@
                 <song name="Sail On"/>
                 <song name="Kingdom of Oblivion"/>
                 <song name="Kill Devil Hills"/>
-                <song name="Marken" notes="New song, somewhat long, probably a working title."/>
+                <song name="Marken">
+                    <notes>New song, somewhat long, probably a working title.</notes>
+                </song>
             </set>
             <set encore="1">
                 <song name="Suite: Little Lucid Moments"/>
                 <song name="Like Chrome"/>
             </set>
         </sets>
+        <notes>Trio gig. Max 100 people in the audience, due to covid-19 regulations.</notes>
     </setlist>
     <setlist status="confirmed" eventDate="15-05-2021">
         <source>Audience report, setlist scan</source>
@@ -56,10 +59,13 @@
                 <song name="N.O.X."/>
             </set>
             <set encore="1">
-                <song name="Marken" notes="New song, somewhat long, probably a working title."/>
+                <song name="Marken">
+                    <notes>New song, somewhat long, probably a working title.</notes>
+                </song>
                 <song name="Like Chrome"/>
             </set>
         </sets>
+        <notes>Trio gig. Max 100 people in the audience, due to covid-19 regulations.</notes>
     </setlist>
     <setlist status="confirmed" eventDate="19-12-2020" disambiguation="Early show" internalOrder="1">
         <source>Official instagram</source>
