@@ -1,6 +1,67 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <setlists>
-    <setlist status="confirmed" eventDate="19-12-2020" disambiguation="Early show">
+    <setlist status="confirmed" eventDate="16-05-2021">
+        <source>Audience report, setlist scan</source>
+        <artist mbid="5d0764c8-b14a-47fb-adc7-2ba9fb5f0d76" name="Motorpsycho" sortName="Motorpsycho" disambiguation="Norwegian band">
+            <url>https://www.setlist.fm/setlists/motorpsycho-63d62abb.html</url>
+        </artist>
+        <venue id="63d62aa7" name="Verkstedhallen">
+            <city name="Trondheim">
+                <country name="Norway"/>
+            </city>
+        </venue>
+        <tour name="Kingdom of Oblivion"/>
+        <sets>
+            <set>
+                <song name="The Transmutation of Cosmoctopus Lurker"/>
+                <song name="N.O.X."/>
+                <song name="Ny / Lang">
+                    <notes>New, untitled song. Long.</notes>
+                </song>
+                <song name="The United Debased"/>
+                <song name="The Waning (pt. 1 & 2)"/>
+                <song name="Sail On"/>
+                <song name="Kingdom of Oblivion"/>
+                <song name="Kill Devil Hills"/>
+                <song name="Marken" notes="New song, somewhat long, probably a working title."/>
+            </set>
+            <set encore="1">
+                <song name="Suite: Little Lucid Moments"/>
+                <song name="Like Chrome"/>
+            </set>
+        </sets>
+    </setlist>
+    <setlist status="confirmed" eventDate="15-05-2021">
+        <source>Audience report, setlist scan</source>
+        <artist mbid="5d0764c8-b14a-47fb-adc7-2ba9fb5f0d76" name="Motorpsycho" sortName="Motorpsycho" disambiguation="Norwegian band">
+            <url>https://www.setlist.fm/setlists/motorpsycho-63d62abb.html</url>
+        </artist>
+        <venue id="63d62aa7" name="Verkstedhallen">
+            <city name="Trondheim">
+                <country name="Norway"/>
+            </city>
+        </venue>
+        <tour name="Kingdom of Oblivion"/>
+        <sets>
+            <set>
+                <song name="Ny / Lang">
+                    <notes>New, untitled song. Long.</notes>
+                </song>
+                <song name="The Waning (pt. 1 & 2)"/>
+                <song name="Kingdom of Oblivion"/>
+                <song name="Suite: Little Lucid Moments"/>
+                <song name="The United Debased"/>
+                <song name="S.T.G."/>
+                <song name="The Transmutation of Cosmoctopus Lurker"/>
+                <song name="N.O.X."/>
+            </set>
+            <set encore="1">
+                <song name="Marken" notes="New song, somewhat long, probably a working title."/>
+                <song name="Like Chrome"/>
+            </set>
+        </sets>
+    </setlist>
+    <setlist status="confirmed" eventDate="19-12-2020" disambiguation="Early show" internalOrder="1">
         <source>Official instagram</source>
         <artist mbid="5d0764c8-b14a-47fb-adc7-2ba9fb5f0d76" name="Motorpsycho" sortName="Motorpsycho" disambiguation="Norwegian band">
         </artist>
@@ -33,7 +94,7 @@
         </sets>
         <notes>Trio gig. Max 50 people in the audience, due to covid-19 regulations.</notes>
     </setlist>
-    <setlist status="confirmed" eventDate="19-12-2020" disambiguation="Late show">
+    <setlist status="confirmed" eventDate="19-12-2020" disambiguation="Late show" internalOrder="2">
         <source>Official instagram</source>
         <artist mbid="5d0764c8-b14a-47fb-adc7-2ba9fb5f0d76" name="Motorpsycho" sortName="Motorpsycho" disambiguation="Norwegian band">
         </artist>
